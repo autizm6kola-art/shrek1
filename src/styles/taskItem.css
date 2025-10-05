@@ -5,6 +5,7 @@
 .task-item input[type="text"] {
   padding: 5px;
   margin-right: 10px;
+  margin-left: 5px;
   border-radius: 5px;
   border: 1px solid #ccc;
   transition: background-color 0.3s ease;
