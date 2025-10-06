@@ -1,44 +1,62 @@
+
+
 // import React, { useEffect, useState } from 'react';
-// import { clearAllAnswers } from '../utils/storage';
+// import { clearAllAnswers, getAllCorrectInputs } from '../utils/storage';
 // import BackButton from './BackButton';
-// import '../styles/menuPage.css';
 // import ProgressBar from './ProgressBar';
+// import '../styles/menuPage.css';
 
 // function MenuPage({ allTasks, onSelectTask }) {
-//   const [totalCorrect, setTotalCorrect] = useState(0);
+//   const [correctInputsKeys, setCorrectInputsKeys] = useState([]);
+//   const [totalInputs, setTotalInputs] = useState(0);
 
 //   useEffect(() => {
-//     let total = 0;
+//     // Получаем все ключи уже правильно решённых input
+//     const keys = getAllCorrectInputs(); // строки вида "app_audio_input_correct_1_5"
+//     setCorrectInputsKeys(keys);
 
-//     allTasks.forEach((task) => {
-//       const isCorrect = localStorage.getItem(`task-${task.id}`) === 'true';
-//       if (isCorrect) total++;
-//     });
-
-//     setTotalCorrect(total);
+//     // Считаем общее число input во всех задачах
+//     const total = allTasks.reduce((sum, task) => sum + task.answers.length, 0);
+//     setTotalInputs(total);
 //   }, [allTasks]);
 
-//   if (!allTasks.length) return <div>Загрузка меню...</div>;
+//   // Функция, чтобы узнать, сколько input в конкретной задаче уже решены
+//   const countCorrectInTask = (task) => {
+//     const prefix = `app_audio_input_correct_${task.id}_`;
+//     return correctInputsKeys.filter((key) => key.startsWith(prefix)).length;
+//   };
+
+//   if (!allTasks || allTasks.length === 0) {
+//     return <div>Загрузка меню...</div>;
+//   }
 
 //   return (
 //     <div className="menu-container">
 //       <BackButton />
 
-//       <h1 className="menu-title">ШРЕК 2</h1>
+//       <h1 className="menu-title">SHREK</h1>
 
-//       <ProgressBar correct={totalCorrect} total={allTasks.length} />
+//       <ProgressBar correct={correctInputsKeys.length} total={totalInputs} />
 
 //       <p className="menu-progress-text">
-//         Прочитано {totalCorrect} из {allTasks.length}
+//         Правильных ответов {correctInputsKeys.length} из {totalInputs}
 //       </p>
 
 //       <div className="range-buttons-wrapper">
 //         {allTasks.map((task) => {
-//           const isCorrect = localStorage.getItem(`task-${task.id}`) === 'true';
+//           const totalForTask = task.answers.length;
+//           const correctForTask = countCorrectInTask(task);
+
 //           let buttonClass = 'range-button';
-//           if (isCorrect) {
+
+//           if (correctForTask === totalForTask && totalForTask > 0) {
+//             // все input решены — зелёный
 //             buttonClass += ' completed';
+//           } else if (correctForTask > 0) {
+//             // частично решено — жёлтый
+//             buttonClass += ' partial';
 //           }
+//           // иначе — обычный вид
 
 //           return (
 //             <button
@@ -46,12 +64,12 @@
 //               className={buttonClass}
 //               onClick={() => onSelectTask(task.id)}
 //             >
-//               Задание {task.id}
+//               {task.id}
 //             </button>
 //           );
 //         })}
-//       </div>
-
+//       </div >
+//       <div className="reset-button-contaner">
 //       <button
 //         className="reset-button"
 //         onClick={() => {
@@ -61,6 +79,8 @@
 //       >
 //         Сбросить все ответы
 //       </button>
+
+//       </div>
 //     </div>
 //   );
 // }
@@ -68,7 +88,6 @@
 // export default MenuPage;
 
 // src/components/MenuPage.js
-
 import React, { useEffect, useState } from 'react';
 import { clearAllAnswers, getAllCorrectInputs } from '../utils/storage';
 import BackButton from './BackButton';
@@ -80,18 +99,15 @@ function MenuPage({ allTasks, onSelectTask }) {
   const [totalInputs, setTotalInputs] = useState(0);
 
   useEffect(() => {
-    // Получаем все ключи уже правильно решённых input
-    const keys = getAllCorrectInputs(); // строки вида "app_audio_input_correct_1_5"
+    const keys = getAllCorrectInputs();
     setCorrectInputsKeys(keys);
 
-    // Считаем общее число input во всех задачах
     const total = allTasks.reduce((sum, task) => sum + task.answers.length, 0);
     setTotalInputs(total);
-  }, [allTasks]);
+  }, [allTasks]); // ← срабатывает при обновлении задач или после возврата (через key в App.js)
 
-  // Функция, чтобы узнать, сколько input в конкретной задаче уже решены
   const countCorrectInTask = (task) => {
-    const prefix = `app_audio_input_correct_${task.id}_`;
+    const prefix = `shrek_input_correct_${task.id}_`;
     return correctInputsKeys.filter((key) => key.startsWith(prefix)).length;
   };
 
@@ -117,15 +133,11 @@ function MenuPage({ allTasks, onSelectTask }) {
           const correctForTask = countCorrectInTask(task);
 
           let buttonClass = 'range-button';
-
           if (correctForTask === totalForTask && totalForTask > 0) {
-            // все input решены — зелёный
             buttonClass += ' completed';
           } else if (correctForTask > 0) {
-            // частично решено — жёлтый
             buttonClass += ' partial';
           }
-          // иначе — обычный вид
 
           return (
             <button
@@ -137,18 +149,18 @@ function MenuPage({ allTasks, onSelectTask }) {
             </button>
           );
         })}
-      </div >
-      <div className="reset-button-contaner">
-      <button
-        className="reset-button"
-        onClick={() => {
-          clearAllAnswers();
-          window.location.reload();
-        }}
-      >
-        Сбросить все ответы
-      </button>
+      </div>
 
+      <div className="reset-button-contaner">
+        <button
+          className="reset-button"
+          onClick={() => {
+            clearAllAnswers();
+            window.location.reload();
+          }}
+        >
+          Сбросить все ответы
+        </button>
       </div>
     </div>
   );
