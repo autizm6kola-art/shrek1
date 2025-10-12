@@ -30,7 +30,7 @@ function TasksPage({ tasks, goBack }) {
       clearAnswersByIds([task.id]);
       const total = task.answers.length;
       for (let i = 0; i < total; i++) {
-        localStorage.removeItem(`app_audio_input_correct_${task.id}_${i}`);
+        localStorage.removeItem(`shrek_input_correct_${task.id}_${i}`);
       }
     });
 
