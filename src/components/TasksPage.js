@@ -53,11 +53,11 @@ function TasksPage({ tasks, goBack }) {
         ← Назад к выбору
       </button>
 
-      <h1 className="task-heading">Страница {start}</h1>
+      {/* <h1 className="task-heading">Страница {start}</h1> 
 
-      {/* <ProgressBar correct={correctInputs.length} total={totalInputs} /> */}
+      <ProgressBar correct={correctInputs.length} total={totalInputs} />
 
-      {/* <p>
+      <p>
         <strong className="task-strong">
           Правильных ответов: {correctInputs.length} из {totalInputs}
         </strong>

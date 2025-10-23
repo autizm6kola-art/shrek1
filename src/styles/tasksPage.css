@@ -30,14 +30,14 @@
 
 .task-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-  margin-top: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+  /* gap: 1px; */
+  margin-top: 10px;
 }
 
 .task-item {
   border: 1px solid #ccc;
-  padding: 15px;
+  padding: 5px;
   border-radius: 8px;
   background-color: #fafafa;
 }

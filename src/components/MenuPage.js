@@ -1,102 +1,17 @@
 
 
-import React, { useEffect, useState } from 'react';
-import { clearAllAnswers, getAllCorrectInputs } from '../utils/storage';
-import BackButton from './BackButton';
-import ProgressBar from './ProgressBar';
-import '../styles/menuPage.css';
-
-function MenuPage({ allTasks, onSelectTask }) {
-  const [correctInputsKeys, setCorrectInputsKeys] = useState([]);
-  const [totalInputs, setTotalInputs] = useState(0);
-
-  useEffect(() => {
-    // Получаем все ключи уже правильно решённых input
-    const keys = getAllCorrectInputs(); // строки вида "app_audio_input_correct_1_5"
-    setCorrectInputsKeys(keys);
-
-    // Считаем общее число input во всех задачах
-    const total = allTasks.reduce((sum, task) => sum + task.answers.length, 0);
-    setTotalInputs(total);
-  }, [allTasks]);
-
-  // Функция, чтобы узнать, сколько input в конкретной задаче уже решены
-  const countCorrectInTask = (task) => {
-    const prefix = `shrek_input_correct_${task.id}_`;
-    return correctInputsKeys.filter((key) => key.startsWith(prefix)).length;
-  };
-
-  if (!allTasks || allTasks.length === 0) {
-    return <div>Загрузка меню...</div>;
-  }
-
-  return (
-    <div className="menu-container">
-      <BackButton />
-
-      <h1 className="menu-title">SHREK</h1>
-
-      <ProgressBar correct={correctInputsKeys.length} total={totalInputs} />
-
-      <p className="menu-progress-text">
-        Правильных ответов {correctInputsKeys.length} из {totalInputs}
-      </p>
-
-      <div className="range-buttons-wrapper">
-        {allTasks.map((task) => {
-          const totalForTask = task.answers.length;
-          const correctForTask = countCorrectInTask(task);
-
-          let buttonClass = 'range-button';
-
-          if (correctForTask === totalForTask && totalForTask > 0) {
-            // все input решены — зелёный
-            buttonClass += ' completed';
-          } else if (correctForTask > 0) {
-            // частично решено — жёлтый
-            buttonClass += ' partial';
-          }
-          // иначе — обычный вид
-
-          return (
-            <button
-              key={task.id}
-              className={buttonClass}
-              onClick={() => onSelectTask(task.id)}
-            >
-              {task.id}
-            </button>
-          );
-        })}
-      </div >
-      <div className="reset-button-contaner">
-      <button
-        className="reset-button"
-        onClick={() => {
-          clearAllAnswers();
-          window.location.reload();
-        }}
-      >
-        Сбросить все ответы
-      </button>
-
-      </div>
-    </div>
-  );
-}
-
-export default MenuPage;
-
 // // src/components/MenuPage.js
 // import React, { useEffect, useState } from 'react';
 // import { clearAllAnswers, getAllCorrectInputs } from '../utils/storage';
 // import BackButton from './BackButton';
 // import ProgressBar from './ProgressBar';
+// import { generateRanges } from '../utils/ranges'; // ✅
 // import '../styles/menuPage.css';
 
-// function MenuPage({ allTasks, onSelectTask }) {
+// function MenuPage({ allTasks, onSelectRange }) {
 //   const [correctInputsKeys, setCorrectInputsKeys] = useState([]);
 //   const [totalInputs, setTotalInputs] = useState(0);
+//   const ranges = generateRanges(allTasks, 5); // ✅ 10 заданий в одном диапазоне
 
 //   useEffect(() => {
 //     const keys = getAllCorrectInputs();
@@ -104,16 +19,23 @@ export default MenuPage;
 
 //     const total = allTasks.reduce((sum, task) => sum + task.answers.length, 0);
 //     setTotalInputs(total);
-//   }, [allTasks]); // ← срабатывает при обновлении задач или после возврата (через key в App.js)
+//   }, [allTasks]);
 
-//   const countCorrectInTask = (task) => {
-//     const prefix = `shrek_input_correct_${task.id}_`;
-//     return correctInputsKeys.filter((key) => key.startsWith(prefix)).length;
+//   const countCorrectInRange = (range) => {
+//     return range.taskIds.reduce((count, id) => {
+//       const prefix = `shrek_input_correct_${id}_`;
+//       return (
+//         count + correctInputsKeys.filter((key) => key.startsWith(prefix)).length
+//       );
+//     }, 0);
 //   };
 
-//   if (!allTasks || allTasks.length === 0) {
-//     return <div>Загрузка меню...</div>;
-//   }
+//   const countTotalInRange = (range) => {
+//     return range.taskIds.reduce((sum, id) => {
+//       const task = allTasks.find((t) => t.id === id);
+//       return sum + (task ? task.answers.length : 0);
+//     }, 0);
+//   };
 
 //   return (
 //     <div className="menu-container">
@@ -128,26 +50,30 @@ export default MenuPage;
 //       </p>
 
 //       <div className="range-buttons-wrapper">
-//         {allTasks.map((task) => {
-//           const totalForTask = task.answers.length;
-//           const correctForTask = countCorrectInTask(task);
+//         {ranges.map((range, i) => {
+//           const total = countTotalInRange(range);
+//           const correct = countCorrectInRange(range);
 
 //           let buttonClass = 'range-button';
-//           if (correctForTask === totalForTask && totalForTask > 0) {
+//           if (correct === total && total > 0) {
 //             buttonClass += ' completed';
-//           } else if (correctForTask > 0) {
+//           } else if (correct > 0) {
 //             buttonClass += ' partial';
 //           }
 
+//           const from = range.taskIds[0];
+//           const to = range.taskIds[range.taskIds.length - 1];
+
 //           return (
 //             <button
-//               key={task.id}
-//               className={buttonClass}
-//               onClick={() => onSelectTask(task.id)}
-//             >
-//               {task.id}
+//                 key={i}
+//                 className={buttonClass}
+//                 onClick={() => onSelectRange(range.taskIds)}
+//                     >
+//                 {i + 1}
 //             </button>
-//           );
+//             );
+
 //         })}
 //       </div>
 
@@ -167,3 +93,97 @@ export default MenuPage;
 // }
 
 // export default MenuPage;
+
+// src/components/MenuPage.js
+import React, { useEffect, useState } from 'react';
+import { clearAllAnswers, getCorrectInputs } from '../utils/storage';
+import BackButton from './BackButton';
+import ProgressBar from './ProgressBar';
+import { generateRanges } from '../utils/ranges';
+import '../styles/menuPage.css';
+
+function MenuPage({ allTasks, onSelectRange }) {
+  const [correctInputsByTask, setCorrectInputsByTask] = useState({});
+  const [totalInputs, setTotalInputs] = useState(0);
+
+  const ranges = generateRanges(allTasks, 5); // группировка по 5 заданий
+
+  useEffect(() => {
+    // Собираем количество правильных инпутов по каждой задаче
+    const corrects = {};
+    allTasks.forEach((task) => {
+      const correctForTask = getCorrectInputs(task.id);
+      corrects[task.id] = correctForTask.length;
+    });
+    setCorrectInputsByTask(corrects);
+
+    // Подсчёт общего количества инпутов
+    const total = allTasks.reduce((sum, task) => sum + task.answers.length, 0);
+    setTotalInputs(total);
+  }, [allTasks]);
+
+  const countCorrectInRange = (range) => {
+    return range.taskIds.reduce((count, id) => count + (correctInputsByTask[id] || 0), 0);
+  };
+
+  const countTotalInRange = (range) => {
+    return range.taskIds.reduce((sum, id) => {
+      const task = allTasks.find((t) => t.id === id);
+      return sum + (task ? task.answers.length : 0);
+    }, 0);
+  };
+
+  const totalCorrect = Object.values(correctInputsByTask).reduce((a, b) => a + b, 0);
+
+  return (
+    <div className="menu-container">
+      <BackButton />
+
+      <h1 className="menu-title">SHREK</h1>
+
+      <ProgressBar correct={totalCorrect} total={totalInputs} />
+
+      <p className="menu-progress-text">
+        Правильных ответов {totalCorrect} из {totalInputs}
+      </p>
+
+      <div className="range-buttons-wrapper">
+        {ranges.map((range, i) => {
+          const total = countTotalInRange(range);
+          const correct = countCorrectInRange(range);
+
+          let buttonClass = 'range-button';
+          if (correct === total && total > 0) {
+            buttonClass += ' completed';
+          } else if (correct > 0) {
+            buttonClass += ' partial';
+          }
+
+          return (
+            <button
+              key={i}
+              className={buttonClass}
+              onClick={() => onSelectRange(range.taskIds)}
+            >
+              {i + 1}
+            </button>
+          );
+        })}
+      </div>
+
+      <div className="reset-button-contaner">
+        <button
+          className="reset-button"
+          onClick={() => {
+            clearAllAnswers();
+            window.location.reload();
+          }}
+        >
+          Сбросить все ответы
+        </button>
+      </div>
+    </div>
+  );
+}
+
+export default MenuPage;

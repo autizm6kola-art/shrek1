@@ -142,19 +142,28 @@ input {
   line-height: 1.8;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
+  /* border: 1px solid rgb(207, 205, 205);
+  border-radius: 10px; */
+  padding: 1px 5px;
 }
 
 .button-proverit {
+  
   background-color: #cfcece;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  /* margin-top: 5px; */
+  /* margin-bottom: 5px; */
   text-align: center;
-  padding: 10px 20px;
+  padding: 5px 10px;
   border: none;
   border-radius: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: #4c4b4b;
+  cursor: pointer;
+}
+
+.button-proverit:hover {
+  background-color: #8ded8d;
 }
 
 .reset-button-contaner {
@@ -163,6 +172,12 @@ input {
 }
 
 
+.task-button {
+   display: grid;
+  grid-template-columns: 95% 5%;
+  gap: 3px; /* немного пространства между элементами */
+  align-items: center;
+}
 
 @media (max-width: 700px) {
   .task-container {

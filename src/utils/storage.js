@@ -1,5 +1,6 @@
 
 
+
 // src/utils/storage.js
 
 import { supabase } from './supabaseClient';
@@ -84,6 +85,18 @@ const localStorageImpl = {
     );
     return keys;
   },
+
+  // Добавить в localStorageImpl:
+getCorrectInputs: (taskId) => {
+  const key = `${STORAGE_PREFIX}correct_inputs_${taskId}`;
+  const stored = localStorage.getItem(key);
+  return stored ? JSON.parse(stored) : [];
+},
+
+saveCorrectInputs: (taskId, indexes) => {
+  const key = `${STORAGE_PREFIX}correct_inputs_${taskId}`;
+  localStorage.setItem(key, JSON.stringify(indexes));
+}
 };
 
 const supabaseImpl = {
@@ -103,4 +116,6 @@ export const getUserInputs = (id) => storage.getUserInputs(id);
 export const saveCorrectInput = (taskId, index) => storage.saveCorrectInput(taskId, index);
 export const isInputCorrect = (taskId, index) => storage.isInputCorrect(taskId, index);
 export const getAllCorrectInputs = () => storage.getAllCorrectInputs();
+export const getCorrectInputs = (taskId) => storage.getCorrectInputs(taskId);
+export const saveCorrectInputs = (taskId, indexes) => storage.saveCorrectInputs(taskId, indexes);
 
