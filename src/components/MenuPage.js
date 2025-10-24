@@ -106,7 +106,7 @@ function MenuPage({ allTasks, onSelectRange }) {
   const [correctInputsByTask, setCorrectInputsByTask] = useState({});
   const [totalInputs, setTotalInputs] = useState(0);
 
-  const ranges = generateRanges(allTasks, 5); // группировка по 5 заданий
+  const ranges = generateRanges(allTasks, 7); // группировка по 5 заданий
 
   useEffect(() => {
     // Собираем количество правильных инпутов по каждой задаче
