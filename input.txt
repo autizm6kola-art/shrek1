@@ -2727,3 +2727,3773 @@
 ой, и
 
 --- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 211
+#ORIGINAL:
+и крупными зелеными мухами дополнял пиршество. 
+
+#EXERCISE:
+и крупны|_||_| зелены|_||_| мухами дополнял пиршеств|_|.
+
+#ANSWERS:
+ми, ми, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 212
+#ORIGINAL:
+Положив в рот последнюю улитку с блюда, 
+
+#EXERCISE:
+Положив в ро|_| последн|_||_| улитку с блюда,
+
+#ANSWERS:
+т, юю
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 213
+#ORIGINAL:
+особенно крупную и аппетитную,
+
+#EXERCISE:
+особенно крупн|_||_| и аппетитну|_|,
+
+#ANSWERS:
+ую, ю
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 214
+#ORIGINAL:
+Шрек блаженно откинулся в кресле.
+
+#EXERCISE:
+Шрек блаженно откинул|_||_| в кресл|_|.
+
+#ANSWERS:
+ся, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 215
+#ORIGINAL:
+За окном уже совсем стемнело – 
+
+#EXERCISE:
+За окном уж|_| совсем стемне|_||_| –
+
+#ANSWERS:
+е, ло
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 216
+#ORIGINAL:
+ночь в лощине на болоте наступала быстро. 
+
+#EXERCISE:
+ноч|_| в лощине на болоте наступа|_||_| быстро.
+
+#ANSWERS:
+ь, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 217
+#ORIGINAL:
+Камин почти угас, 
+
+#EXERCISE:
+Ками|_| поч|_||_| угас,
+
+#ANSWERS:
+н, ти
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 218
+#ORIGINAL:
+хотя недогоревших дров было ещё достаточно. 
+
+#EXERCISE:
+хотя недогоревш|_||_| дров было ещ|_| достаточно.
+
+#ANSWERS:
+их, ё
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 219
+#ORIGINAL:
+Шреку не хотелось вставать с кресла, 
+
+#EXERCISE:
+Шрек|_| не хотелось встава|_||_| с кресла,
+
+#ANSWERS:
+у, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 220
+#ORIGINAL:
+чтобы раздуть огонь – 
+
+#EXERCISE:
+чтобы разду|_||_| огон|_| –
+
+#ANSWERS:
+ть, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 221
+#ORIGINAL:
+он чиркнул спичкой и шумно рыгнул – 
+
+#EXERCISE:
+он чиркнул спичк|_||_| и шумн|_| рыгнул –
+
+#ANSWERS:
+ой, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 222
+#ORIGINAL:
+язык голубоватого пламени,
+
+#EXERCISE:
+язы|_| голубовато|_||_| пламени,
+
+#ANSWERS:
+к, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 223
+#ORIGINAL:
+как из пасти дракона, 
+
+#EXERCISE:
+как из паст|_| драко|_||_|,
+
+#ANSWERS:
+и, на
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 224
+#ORIGINAL:
+поджёг весело затрещавшие дрова в камине.
+
+#EXERCISE:
+поджёг весело затрещавш|_||_| дрова в камин|_|.
+
+#ANSWERS:
+ие, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 225
+#ORIGINAL:
+Шрек зажмурился от удовольствия, 
+
+#EXERCISE:
+Шрек зажмурил|_||_| от удовольстви|_|,
+
+#ANSWERS:
+ся, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 226
+#ORIGINAL:
+вытянувшись в кресле.
+
+#EXERCISE:
+вытянувши|_||_| в кресл|_|.
+
+#ANSWERS:
+сь, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 227
+#ORIGINAL:
+Но недолго он наслаждался покоем. 
+
+#EXERCISE:
+Но недолг|_| он наслаждал|_||_| покоем.
+
+#ANSWERS:
+о, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 228
+#ORIGINAL:
+Какой то посторонний звук коснулся его слуха. 
+
+#EXERCISE:
+Какой то посторонн|_||_| звук коснулся его слух|_|.
+
+#ANSWERS:
+ий, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 229
+#ORIGINAL:
+Это были крики и топот множества людей. 
+
+#EXERCISE:
+Это были крик|_| и топот множества люд|_||_|.
+
+#ANSWERS:
+и, ей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 230
+#ORIGINAL:
+И люди эти приближались! 
+
+#EXERCISE:
+И люд|_| эти приближали|_||_|!
+
+#ANSWERS:
+и, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 231
+#ORIGINAL:
+Шрек нахмурился, встал с кресла, 
+
+#EXERCISE:
+Шрек нахмурил|_||_|, встал с кресл|_|,
+
+#ANSWERS:
+ся, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 232
+#ORIGINAL:
+мигом взобрался по узенькой лестнице на чердак своего
+
+#EXERCISE:
+мигом взобрался по узеньк|_||_| лестнице н|_| чердак своего
+
+#ANSWERS:
+ой, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 233
+#ORIGINAL:
+домика и выглянул в слуховое окно. 
+
+#EXERCISE:
+домика и выглянул в слухов|_||_| окн|_|.
+
+#ANSWERS:
+ое, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 234
+#ORIGINAL:
+Толпа крестьян, вооруженных чем попало, 
+
+#EXERCISE:
+Толп|_| крестьян, вооруженн|_||_| чем попало,
+
+#ANSWERS:
+а, ых
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 235
+#ORIGINAL:
+с факелами в руках, 
+
+#EXERCISE:
+с факелам|_| в рук|_||_|,
+
+#ANSWERS:
+и, ах
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 236
+#ORIGINAL:
+уже миновала узкий вход в лощину, 
+
+#EXERCISE:
+уже миновала узк|_||_| вход в лощин|_|,
+
+#ANSWERS:
+ий, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 237
+#ORIGINAL:
+попутно свалив устрашающий плакат, 
+
+#EXERCISE:
+попутно свалив устрашающ|_||_| плака|_|,
+
+#ANSWERS:
+ий, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 238
+#ORIGINAL:
+только недавно вывешенный Шреком, 
+
+#EXERCISE:
+тольк|_| недав|_||_| вывешенный Шреком,
+
+#ANSWERS:
+о, но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 239
+#ORIGINAL:
+и теперь приближалась к его жилищу.
+
+#EXERCISE:
+и теперь приближала|_||_| к его жилищ|_|.
+
+#ANSWERS:
+сь, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 240
+#ORIGINAL:
+Шрек нахмурился ещё больше – 
+
+#EXERCISE:
+Шрек нахмурил|_||_| ещё больш|_| –
+
+#ANSWERS:
+ся, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 241
+#ORIGINAL:
+выражение его лица не предвещало 
+
+#EXERCISE:
+выражен|_||_| его лиц|_| не предвещало
+
+#ANSWERS:
+ие, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 242
+#ORIGINAL:
+ничего доброго незваным гостям. 
+
+#EXERCISE:
+ничег|_| доброго незваным гост|_||_|.
+
+#ANSWERS:
+о, ям
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 243
+#ORIGINAL:
+Но вдруг черты его разгладились, 
+
+#EXERCISE:
+Но вдруг черты ег|_| разгладили|_||_|,
+
+#ANSWERS:
+о, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 244
+#ORIGINAL:
+он лукаво ухмыльнулся 
+
+#EXERCISE:
+он лукав|_| ухмыльнул|_||_|
+
+#ANSWERS:
+о, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 245
+#ORIGINAL:
+и быстро отошёл от окна.
+
+#EXERCISE:
+и быстро отош|_||_| от окн|_|.
+
+#ANSWERS:
+ёл, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 246
+#ORIGINAL:
+А бравые воины всё приближались. 
+
+#EXERCISE:
+А брав|_||_| воин|_| всё приближались.
+
+#ANSWERS:
+ые, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 247
+#ORIGINAL:
+Вечерняя прохлада значительно охладила их пыл, 
+
+#EXERCISE:
+Вечерн|_||_| прохлада значительн|_| охладила их пыл,
+
+#ANSWERS:
+яя, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 248
+#ORIGINAL:
+хмель выветрился из голов. 
+
+#EXERCISE:
+хмель выветрил|_||_| из голо|_|.
+
+#ANSWERS:
+ся, в
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 249
+#ORIGINAL:
+Темное мрачное болото окружало их со всех сторон, 
+
+#EXERCISE:
+Темн|_||_| мрачное болот|_| окружало их со всех сторон,
+
+#ANSWERS:
+ое, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 250
+#ORIGINAL:
+и многие из них уже не рады были, 
+
+#EXERCISE:
+и мног|_||_| из них уже не рады был|_|,
+
+#ANSWERS:
+ие, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 251
+#ORIGINAL:
+что ввязались в такое рискованное предприятие, 
+
+#EXERCISE:
+что ввязались в такое рискованн|_||_| предприяти|_|,
+
+#ANSWERS:
+ое, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 252
+#ORIGINAL:
+но мужская гордость не позволяла повернуть назад.
+
+#EXERCISE:
+но мужск|_||_| гордость не позволял|_| повернуть назад.
+
+#ANSWERS:
+ая, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 253
+#ORIGINAL:
+И вот наконец они добрались до нужного места. 
+
+#EXERCISE:
+И вот наконец они добрались до нужно|_||_| мест|_|.
+
+#ANSWERS:
+го, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 254
+#ORIGINAL:
+Люди сбавили шаг и, 
+
+#EXERCISE:
+Люд|_| сбави|_||_| шаг и,
+
+#ANSWERS:
+и, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 255
+#ORIGINAL:
+раздвинув заросли камыша, 
+
+#EXERCISE:
+раздвинув зарос|_||_| камыш|_|,
+
+#ANSWERS:
+ли, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 256
+#ORIGINAL:
+оказались перед домиком. 
+
+#EXERCISE:
+оказались пере|_| домик|_||_|.
+
+#ANSWERS:
+д, ом
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 257
+#ORIGINAL:
+В окне светился огонек.
+
+#EXERCISE:
+В окн|_| светил|_||_| огонек.
+
+#ANSWERS:
+е, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 258
+#ORIGINAL:
+– Я думаю, он там! – 
+
+#EXERCISE:
+– Я дум|_||_|, он та|_|! –
+
+#ANSWERS:
+аю, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 259
+#ORIGINAL:
+сказал Робин, глядя на освещенное окно.
+
+#EXERCISE:
+сказал Робин, глядя на освещенн|_||_| окн|_|.
+
+#ANSWERS:
+ое, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 260
+#ORIGINAL:
+Джерри рванулся вперед:
+
+#EXERCISE:
+Джерри рванул|_||_| впере|_|:
+
+#ANSWERS:
+ся, д
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 261
+#ORIGINAL:
+– Отлично, возьмём его!
+
+#EXERCISE:
+– Отлич|_||_|, возьмём ег|_|!
+
+#ANSWERS:
+но, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 262
+#ORIGINAL:
+– Не торопись, – 
+
+#EXERCISE:
+– Н|_| торопи|_||_|, –
+
+#ANSWERS:
+е, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 263
+#ORIGINAL:
+осадил коротышка Майкл, 
+
+#EXERCISE:
+осад|_||_| коротышк|_| Майкл,
+
+#ANSWERS:
+ил, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 264
+#ORIGINAL:
+хватая Джерри за плечо, – 
+
+#EXERCISE:
+хватая Джерри з|_| пле|_||_|, –
+
+#ANSWERS:
+а, чо
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 265
+#ORIGINAL:
+иначе мы уже ничем тебе не поможем!
+
+#EXERCISE:
+иначе мы уж|_| ничем те|_||_| не поможем!
+
+#ANSWERS:
+е, бе
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 266
+#ORIGINAL:
+– Да он из твоих мозгов суп сварит! – 
+
+#EXERCISE:
+– Да он из твоих мозго|_| суп свар|_||_|! –
+
+#ANSWERS:
+в, ит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 267
+#ORIGINAL:
+воскликнул толстый Джон.
+
+#EXERCISE:
+воскликну|_| толст|_||_| Джон.
+
+#ANSWERS:
+л, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 268
+#ORIGINAL:
+Джерри не успел ответить.
+
+#EXERCISE:
+Джерри н|_| успел ответи|_||_|.
+
+#ANSWERS:
+е, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 269
+#ORIGINAL:
+Кто то позади него насмешливо фыркнул. 
+
+#EXERCISE:
+Кто то позади нег|_| насмешли|_||_| фыркнул.
+
+#ANSWERS:
+о, во
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 270
+#ORIGINAL:
+Все оглянулись 
+
+#EXERCISE:
+Вс|_| оглянули|_||_|
+
+#ANSWERS:
+е, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 271
+#ORIGINAL:
+и замерли в ужасе – 
+
+#EXERCISE:
+и замер|_||_| в ужас|_| –
+
+#ANSWERS:
+ли, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 272
+#ORIGINAL:
+это был Шрек. 
+
+#EXERCISE:
+эт|_| был Шр|_||_|.
+
+#ANSWERS:
+о, ек
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 273
+#ORIGINAL:
+Он тихонько выбрался из задней двери своего домика,
+
+#EXERCISE:
+Он тихонько выбрал|_||_| из задней двери своего домик|_|,
+
+#ANSWERS:
+ся, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 274
+#ORIGINAL:
+подкрался в темноте к кучке людей, 
+
+#EXERCISE:
+подкрал|_||_| в темноте к кучк|_| людей,
+
+#ANSWERS:
+ся, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 275
+#ORIGINAL:
+и сейчас ухмылялся:
+
+#EXERCISE:
+и сейча|_| ухмылял|_||_|:
+
+#ANSWERS:
+с, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 276
+#ORIGINAL:
+– Ну, на самом деле этим занимаются все великаны. 
+
+#EXERCISE:
+– Ну, на самом деле этим занимают|_||_| все великан|_|.
+
+#ANSWERS:
+ся, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 277
+#ORIGINAL:
+Но людоеды – это гораздо хуже! 
+
+#EXERCISE:
+Но людое|_||_| – это гораздо хуж|_|!
+
+#ANSWERS:
+ды, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 278
+#ORIGINAL:
+Они сделают кафтан из твоей свежесодранной шкуры, 
+
+#EXERCISE:
+Они сделают кафтан из тво|_||_| свежесодранной шкур|_|,
+
+#ANSWERS:
+ей, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 279
+#ORIGINAL:
+вырвут твою печенку, выдавят твои глаза… 
+
+#EXERCISE:
+вырвут твою печенк|_|, выдавят тв|_||_| глаза…
+
+#ANSWERS:
+у, ои
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 280
+#ORIGINAL:
+Вообще то говоря, 
+
+#EXERCISE:
+Вообще т|_| гово|_||_|,
+
+#ANSWERS:
+о, ря
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 281
+#ORIGINAL:
+из них получаются хорошие игрушки…
+
+#EXERCISE:
+из них получают|_||_| хорошие игрушк|_|…
+
+#ANSWERS:
+ся, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 282
+#ORIGINAL:
+Произнося эту нравоучительную тираду, 
+
+#EXERCISE:
+Произнося эт|_| нравоучительн|_||_| тираду,
+
+#ANSWERS:
+у, ую
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 283
+#ORIGINAL:
+Шрек надвигался на людей, 
+
+#EXERCISE:
+Шрек надвигал|_||_| н|_| людей,
+
+#ANSWERS:
+ся, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 284
+#ORIGINAL:
+а они растерянно пятились от него.
+
+#EXERCISE:
+а они растерянно пятили|_||_| от нег|_|.
+
+#ANSWERS:
+сь, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 285
+#ORIGINAL:
+И тут нервы Майкла, 
+
+#EXERCISE:
+И тут нерв|_| Майк|_||_|,
+
+#ANSWERS:
+ы, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 286
+#ORIGINAL:
+оказавшегося прямо на пути людоеда, не выдержали.
+
+#EXERCISE:
+оказавшегося прямо на пути людоед|_|, не выдержа|_||_|.
+
+#ANSWERS:
+а, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 287
+#ORIGINAL:
+– Не подходи, не подходи! – 
+
+#EXERCISE:
+– Н|_| подхо|_||_|, н|_| подхо|_||_|! –
+
+#ANSWERS:
+е, ди, е, ди
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 288
+#ORIGINAL:
+с надрывом закричал он,
+
+#EXERCISE:
+с надрывом закрич|_||_| о|_|,
+
+#ANSWERS:
+ал, н
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 289
+#ORIGINAL:
+размахивая перед лицом Шрека горящим факелом.
+
+#EXERCISE:
+размахивая перед лицом Шрек|_| горящ|_||_| факелом.
+
+#ANSWERS:
+а, им
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 290
+#ORIGINAL:
+Шрек удивленно взглянул на него, 
+
+#EXERCISE:
+Шрек удивленно взглян|_||_| на нег|_|,
+
+#ANSWERS:
+ул, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 291
+#ORIGINAL:
+а потом поплевал на свои толстенные пальцы, 
+
+#EXERCISE:
+а потом поплевал на свои толстенн|_||_| пальц|_|,
+
+#ANSWERS:
+ые, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 292
+#ORIGINAL:
+и потушил ими факел, 
+
+#EXERCISE:
+и потуш|_||_| ими факе|_|,
+
+#ANSWERS:
+ил, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 293
+#ORIGINAL:
+как тушат лучинку или свечу. 
+
+#EXERCISE:
+как тушат лучинку ил|_| све|_||_|.
+
+#ANSWERS:
+и, чу
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 294
+#ORIGINAL:
+Майкл, оторопев от неожиданности, 
+
+#EXERCISE:
+Майкл, оторопев о|_| неожиданнос|_||_|,
+
+#ANSWERS:
+т, ти
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 295
+#ORIGINAL:
+отпрянул, и тут Шрек, в свою очередь, 
+
+#EXERCISE:
+отпрян|_||_|, и ту|_| Шрек, в свою очередь,
+
+#ANSWERS:
+ул, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 296
+#ORIGINAL:
+широко разинув рот с огромными желтыми зубами, 
+
+#EXERCISE:
+широко разинув рот с огромными желты|_||_| зубам|_|,
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 297
+#ORIGINAL:
+дико заорал.
+
+#EXERCISE:
+дик|_| заор|_||_|.
+
+#ANSWERS:
+о, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 298
+#ORIGINAL:
+Вопль, который он издал, 
+
+#EXERCISE:
+Вопл|_|, котор|_||_| он издал,
+
+#ANSWERS:
+ь, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 299
+#ORIGINAL:
+был так страшен,
+
+#EXERCISE:
+был та|_| страш|_||_|,
+
+#ANSWERS:
+к, ен
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 300
+#ORIGINAL:
+что люди едва удержались на ногах, 
+
+#EXERCISE:
+что люд|_| едва удержали|_||_| на ногах,
+
+#ANSWERS:
+и, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 301
+#ORIGINAL:
+роняя свои вилы и палки,
+
+#EXERCISE:
+роняя св|_||_| вилы и палк|_|,
+
+#ANSWERS:
+ои, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 302
+#ORIGINAL:
+и тоже завопили от ужаса. 
+
+#EXERCISE:
+и тоже завопи|_||_| от ужас|_|.
+
+#ANSWERS:
+ли, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 303
+#ORIGINAL:
+Через несколько мгновений все факелы погасли, 
+
+#EXERCISE:
+Через несколько мгновен|_||_| все факел|_| погасли,
+
+#ANSWERS:
+ий, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 304
+#ORIGINAL:
+задутые порывом ветра от дыхания Шрека, 
+
+#EXERCISE:
+задутые порывом ветр|_| от дыхан|_||_| Шрека,
+
+#ANSWERS:
+а, ия
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 305
+#ORIGINAL:
+и наступила темнота. 
+
+#EXERCISE:
+и наступи|_||_| темнот|_|.
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 306
+#ORIGINAL:
+Крики прекратились,
+
+#EXERCISE:
+Крик|_| прекратили|_||_|,
+
+#ANSWERS:
+и, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 307
+#ORIGINAL:
+и люди, дрожа от страха, 
+
+#EXERCISE:
+и люд|_|, дрожа от стра|_||_|,
+
+#ANSWERS:
+и, ха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 308
+#ORIGINAL:
+прижались друг к другу, 
+
+#EXERCISE:
+прижали|_||_| друг к друг|_|,
+
+#ANSWERS:
+сь, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 309
+#ORIGINAL:
+а над ними, как скала, навис Шрек. 
+
+#EXERCISE:
+а над ни|_||_|, как скал|_|, навис Шрек.
+
+#ANSWERS:
+ми, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 310
+#ORIGINAL:
+И в этот самый момент, 
+
+#EXERCISE:
+И в этот сам|_||_| момен|_|,
+
+#ANSWERS:
+ый, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 311
+#ORIGINAL:
+когда нервы у всех были напряжены до предела, 
+
+#EXERCISE:
+когда нерв|_| у всех бы|_||_| напряжены до предела,
+
+#ANSWERS:
+ы, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 312
+#ORIGINAL:
+он нагнулся поближе к Майклу, 
+
+#EXERCISE:
+он нагнул|_||_| поближ|_| к Майклу,
+
+#ANSWERS:
+ся, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 313
+#ORIGINAL:
+и доверительным тоном сказал ему:
+
+#EXERCISE:
+и доверительным тоном сказ|_||_| ем|_|:
+
+#ANSWERS:
+ал, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 314
+#ORIGINAL:
+– Мне кажется, сейчас самое время убежать…
+
+#EXERCISE:
+– Мне кажется, сейчас сам|_||_| врем|_| убежать…
+
+#ANSWERS:
+ое, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 315
+#ORIGINAL:
+Это было последней каплей. 
+
+#EXERCISE:
+Эт|_| было последн|_||_| каплей.
+
+#ANSWERS:
+о, ей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 316
+#ORIGINAL:
+Майкл громко охнул, 
+
+#EXERCISE:
+Майкл гром|_||_| охну|_|,
+
+#ANSWERS:
+ко, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 317
+#ORIGINAL:
+кто то еще не то взвыл, не то зарыдал, 
+
+#EXERCISE:
+кто то еще н|_| то взвыл, н|_| то зарыд|_||_|,
+
+#ANSWERS:
+е, е, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 318
+#ORIGINAL:
+и все припустились бегом с болота, 
+
+#EXERCISE:
+и все припустили|_||_| бегом с болот|_|,
+
+#ANSWERS:
+сь, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 319
+#ORIGINAL:
+побросав всё, что держали в руках, 
+
+#EXERCISE:
+побросав вс|_|, что держали в рук|_||_|,
+
+#ANSWERS:
+ё, ах
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 320
+#ORIGINAL:
+натыкаясь на деревья и камни, 
+
+#EXERCISE:
+натыкаясь на дерев|_||_| и камн|_|,
+
+#ANSWERS:
+ья, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 321
+#ORIGINAL:
+завывая и щелкая зубами от ужаса.
+
+#EXERCISE:
+завывая и щелкая зуба|_||_| от ужас|_|.
+
+#ANSWERS:
+ми, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 322
+#ORIGINAL:
+Шрек стоял на пригорке и хохотал – 
+
+#EXERCISE:
+Шрек стоял на пригорк|_| и хохот|_||_| –
+
+#ANSWERS:
+е, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 323
+#ORIGINAL:
+давно он так не веселился.
+
+#EXERCISE:
+давно он так н|_| веселил|_||_|.
+
+#ANSWERS:
+е, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 324
+#ORIGINAL:
+– Счастливого пути! – 
+
+#EXERCISE:
+– Счастливо|_||_| пут|_|! –
+
+#ANSWERS:
+го, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 325
+#ORIGINAL:
+закричал он вслед беглецам, 
+
+#EXERCISE:
+закрич|_||_| он всле|_| беглецам,
+
+#ANSWERS:
+ал, д
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 326
+#ORIGINAL:
+и повернулся, чтобы уйти домой. 
+
+#EXERCISE:
+и повернул|_||_|, чтобы уйт|_| домой.
+
+#ANSWERS:
+ся, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 327
+#ORIGINAL:
+И тут ему под ноги подвернулся листок бумаги,
+
+#EXERCISE:
+И тут ему под ног|_| подвернул|_||_| листок бумаги,
+
+#ANSWERS:
+и, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 328
+#ORIGINAL:
+потерянный кем то из его ночных гостей. 
+
+#EXERCISE:
+потерянный кем т|_| из его ночн|_||_| гостей.
+
+#ANSWERS:
+о, ых
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 329
+#ORIGINAL:
+Шрек поднял его и расправил.
+
+#EXERCISE:
+Шрек поднял ег|_| и расправ|_||_|.
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 330
+#ORIGINAL:
+Очевидно, это было объявление. 
+
+#EXERCISE:
+Очевидно, это был|_| объявлен|_||_|.
+
+#ANSWERS:
+о, ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 331
+#ORIGINAL:
+В середине была нарисована бородатая физиономия 
+
+#EXERCISE:
+В середине была нарисована бородат|_||_| физиономи|_|
+
+#ANSWERS:
+ая, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 332
+#ORIGINAL:
+в колпачке, над которой написано: 
+
+#EXERCISE:
+в колпачк|_|, над которой написа|_||_|:
+
+#ANSWERS:
+е, но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 333
+#ORIGINAL:
+«Разыскиваются сказочные существа.
+
+#EXERCISE:
+«Разыскиваются сказочн|_||_| существ|_|.
+
+#ANSWERS:
+ые, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 334
+#ORIGINAL:
+Вознаграждение!».
+
+#EXERCISE:
+Вознагражден|_||_|!».
+
+#ANSWERS:
+ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 335
+#ORIGINAL:
+Шрек пожал плечами 
+
+#EXERCISE:
+Шрек пож|_||_| плечам|_|
+
+#ANSWERS:
+ал, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 336
+#ORIGINAL:
+и небрежно швырнул листок на землю,
+
+#EXERCISE:
+и небрежно швырн|_||_| листок на земл|_|,
+
+#ANSWERS:
+ул, ю
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 337
+#ORIGINAL:
+направляясь в дом. 
+
+#EXERCISE:
+направляя|_||_| в до|_|.
+
+#ANSWERS:
+сь, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 338
+#ORIGINAL:
+На уголке листка можно было заметить букву «Ф» – 
+
+#EXERCISE:
+На уголке листк|_| можно было заметить бук|_||_| «Ф» –
+
+#ANSWERS:
+а, ву
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 339
+#ORIGINAL:
+монограмму лорда Фарквуда.
+
+#EXERCISE:
+монограмму лор|_||_| Фарквуд|_|.
+
+#ANSWERS:
+да, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 340
+#ORIGINAL:
+Глава четвертая
+
+#EXERCISE:
+Глав|_| четверт|_||_|
+
+#ANSWERS:
+а, ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 341
+#ORIGINAL:
+Лорд Фарквуд хочет навести порядок 
+
+#EXERCISE:
+Лорд Фарквуд хоч|_||_| навест|_| порядок
+
+#ANSWERS:
+ет, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 342
+#ORIGINAL:
+в своих владениях,
+
+#EXERCISE:
+в сво|_||_| владения|_|,
+
+#ANSWERS:
+их, х
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 343
+#ORIGINAL:
+а Осел совершает не слишком удачный полёт 
+
+#EXERCISE:
+а Осел совершает н|_| слишком удачн|_||_| полёт
+
+#ANSWERS:
+е, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 344
+#ORIGINAL:
+и знакомится со Шреком
+
+#EXERCISE:
+и знакомит|_||_| с|_| Шреком
+
+#ANSWERS:
+ся, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 345
+#ORIGINAL:
+На следующее утро в замке лорда Фарквуда 
+
+#EXERCISE:
+На следующ|_||_| утро в замк|_| лорда Фарквуда
+
+#ANSWERS:
+ее, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 346
+#ORIGINAL:
+(или короля Фарквуда, 
+
+#EXERCISE:
+(или корол|_| Фаркву|_||_|,
+
+#ANSWERS:
+я, да
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 347
+#ORIGINAL:
+как он сам предпочитал именоваться) 
+
+#EXERCISE:
+как он са|_| предпочит|_||_| именоваться)
+
+#ANSWERS:
+м, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 348
+#ORIGINAL:
+можно было наблюдать необычайную картину.
+
+#EXERCISE:
+можно было наблюдать необычайн|_||_| картин|_|.
+
+#ANSWERS:
+ую, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 349
+#ORIGINAL:
+Со всех сторон к замку шли люди. 
+
+#EXERCISE:
+Со всех сторон к замк|_| шли лю|_||_|.
+
+#ANSWERS:
+у, ди
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 350
+#ORIGINAL:
+Это были и крестьяне, 
+
+#EXERCISE:
+Это бы|_||_| и крестьян|_|,
+
+#ANSWERS:
+ли, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 351
+#ORIGINAL:
+живущие на прилегающих к замку землях, 
+
+#EXERCISE:
+живущие н|_| прилегающих к замку земл|_||_|,
+
+#ANSWERS:
+а, ях
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 352
+#ORIGINAL:
+и стражники, служившие в замке, 
+
+#EXERCISE:
+и стражник|_|, служивш|_||_| в замке,
+
+#ANSWERS:
+и, ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 353
+#ORIGINAL:
+и вообще посторонние, 
+
+#EXERCISE:
+и вообщ|_| посторонн|_||_|,
+
+#ANSWERS:
+е, ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 354
+#ORIGINAL:
+пришедшие из за границ «королевства» Фарквуда
+
+#EXERCISE:
+пришедшие из за границ «королевст|_||_|» Фарквуд|_|
+
+#ANSWERS:
+ва, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 355
+#ORIGINAL:
+И все они вели, везли, несли или тащили 
+
+#EXERCISE:
+И все они вели, везли, нес|_||_| или тащил|_|
+
+#ANSWERS:
+ли, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 356
+#ORIGINAL:
+каких нибудь необычайных зверушек, человечков, 
+
+#EXERCISE:
+каких нибуд|_| необычайн|_||_| зверушек, человечков,
+
+#ANSWERS:
+ь, ых
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 357
+#ORIGINAL:
+а то и вообще такое, 
+
+#EXERCISE:
+а то и вообщ|_| так|_||_|,
+
+#ANSWERS:
+е, ое
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 358
+#ORIGINAL:
+что даже не имело названия.
+
+#EXERCISE:
+что даж|_| не имело назван|_||_|.
+
+#ANSWERS:
+е, ия
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 359
+#ORIGINAL:
+Проехала крытая повозка, 
+
+#EXERCISE:
+Проеха|_||_| крытая повозк|_|,
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 360
+#ORIGINAL:
+запряженная парой лошадей, 
+
+#EXERCISE:
+запряженная паро|_| лошад|_||_|,
+
+#ANSWERS:
+й, ей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 361
+#ORIGINAL:
+в зарешеченное окно которой выглядывала физиономия, 
+
+#EXERCISE:
+в зарешеченн|_||_| окно которой выглядывала физиономи|_|,
+
+#ANSWERS:
+ое, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 362
+#ORIGINAL:
+точь в точь такая же, 
+
+#EXERCISE:
+точь в точь так|_||_| ж|_|,
+
+#ANSWERS:
+ая, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 363
+#ORIGINAL:
+как на объявлении,
+
+#EXERCISE:
+как н|_| объявлен|_||_|,
+
+#ANSWERS:
+а, ии
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 364
+#ORIGINAL:
+которое выбросил Шрек. 
+
+#EXERCISE:
+которое выброс|_||_| Шре|_|.
+
+#ANSWERS:
+ил, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 365
+#ORIGINAL:
+Следом вели целую шеренгу гномов, 
+
+#EXERCISE:
+Следом вели цел|_||_| шеренг|_| гномов,
+
+#ANSWERS:
+ую, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 366
+#ORIGINAL:
+со скованными руками, на общей цепи. 
+
+#EXERCISE:
+со скованны|_||_| руками, на общей цеп|_|.
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 367
+#ORIGINAL:
+Тех, кто не хотел идти и упирался, 
+
+#EXERCISE:
+Тех, кто не хот|_||_| идт|_| и упирался,
+
+#ANSWERS:
+ел, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 368
+#ORIGINAL:
+безжалостно подстегивали кнутами стражники 
+
+#EXERCISE:
+безжалостно подстегивали кнута|_||_| стражник|_|
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 369
+#ORIGINAL:
+в латах и шлемах, с мечами на перевязях.
+
+#EXERCISE:
+в латах и шлема|_|, с меча|_||_| на перевязях.
+
+#ANSWERS:
+х, ми
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 370
+#ORIGINAL:
+Все эти люди и те, кого они вели, 
+
+#EXERCISE:
+Все эти люд|_| и те, ко|_||_| они вели,
+
+#ANSWERS:
+и, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 371
+#ORIGINAL:
+тащили или сопровождали, 
+
+#EXERCISE:
+тащил|_| или сопровожда|_||_|,
+
+#ANSWERS:
+и, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 372
+#ORIGINAL:
+направлялись к большому столу, 
+
+#EXERCISE:
+направлялись к большо|_||_| стол|_|,
+
+#ANSWERS:
+му, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 373
+#ORIGINAL:
+стоявшему на полянке вблизи замка.
+
+#EXERCISE:
+стоявшему на полянк|_| вблизи зам|_||_|.
+
+#ANSWERS:
+е, ка
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 374
+#ORIGINAL:
+За столом важно восседал Гейнц – 
+
+#EXERCISE:
+За столом важн|_| воссед|_||_| Гейнц –
+
+#ANSWERS:
+о, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 375
+#ORIGINAL:
+капитан дворцовой стражи.
+
+#EXERCISE:
+капитан дворцов|_||_| страж|_|.
+
+#ANSWERS:
+ой, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 376
+#ORIGINAL:
+Он был в латах, 
+
+#EXERCISE:
+Он бы|_| в лат|_||_|,
+
+#ANSWERS:
+л, ах
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 377
+#ORIGINAL:
+но без шлема (шлем лежал тут же, на столе).
+
+#EXERCISE:
+но без шлем|_| (шлем леж|_||_| тут же, на столе).
+
+#ANSWERS:
+а, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 378
+#ORIGINAL:
+Позади Гейнца застыли двое латников 
+
+#EXERCISE:
+Позади Гейнца застыл|_| дв|_||_| латников
+
+#ANSWERS:
+и, ое
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 379
+#ORIGINAL:
+в полном вооружении – 
+
+#EXERCISE:
+в полн|_||_| вооружени|_| –
+
+#ANSWERS:
+ом, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 380
+#ORIGINAL:
+с мечами, копьями 
+
+#EXERCISE:
+с меча|_||_|, копьям|_|
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 381
+#ORIGINAL:
+и арбалетами за спиной, 
+
+#EXERCISE:
+и арбалетам|_| за спин|_||_|,
+
+#ANSWERS:
+и, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 382
+#ORIGINAL:
+готовые к любым неожиданностям. 
+
+#EXERCISE:
+готов|_||_| к любы|_| неожиданностям.
+
+#ANSWERS:
+ые, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 383
+#ORIGINAL:
+У стола толпилась пестрая очередь.
+
+#EXERCISE:
+У стола толпилась пестр|_||_| очеред|_|.
+
+#ANSWERS:
+ая, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 384
+#ORIGINAL:
+– Получи за ведьму двадцать шиллингов! – 
+
+#EXERCISE:
+– Получи за ведьм|_| двадца|_||_| шиллингов! –
+
+#ANSWERS:
+у, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 385
+#ORIGINAL:
+говорил Гейнц высокому худому мужчине 
+
+#EXERCISE:
+говорил Гейнц высокому худо|_||_| мужчин|_|
+
+#ANSWERS:
+му, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 386
+#ORIGINAL:
+с длинными черными волосами. 
+
+#EXERCISE:
+с длинными черны|_||_| волосам|_|.
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 387
+#ORIGINAL:
+– Уведите её! – добавил он, 
+
+#EXERCISE:
+– Уведите е|_|! – добав|_||_| он,
+
+#ANSWERS:
+ё, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 388
+#ORIGINAL:
+обращаясь к стоявшим рядом стражникам. 
+
+#EXERCISE:
+обращаясь к стоявшим ряд|_||_| стражника|_|.
+
+#ANSWERS:
+ом, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 389
+#ORIGINAL:
+Один из них поспешно выхватил из рук у пожилой
+
+#EXERCISE:
+Оди|_| из них поспешно выхват|_||_| из рук у пожилой
+
+#ANSWERS:
+н, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 390
+#ORIGINAL:
+женщины в черном платье 
+
+#EXERCISE:
+женщины в черн|_||_| плать|_|
+
+#ANSWERS:
+ом, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 391
+#ORIGINAL:
+посох и переломил его о колено, 
+
+#EXERCISE:
+посох и перелом|_||_| его о колен|_|,
+
+#ANSWERS:
+ил, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 392
+#ORIGINAL:
+другие подхватили ее под руки 
+
+#EXERCISE:
+другие подхвати|_||_| ее под рук|_|
+
+#ANSWERS:
+ли, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 393
+#ORIGINAL:
+и увели, а мужчина отошёл, 
+
+#EXERCISE:
+и увели, а мужчин|_| отош|_||_|,
+
+#ANSWERS:
+а, ёл
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 394
+#ORIGINAL:
+с довольным видом пересчитывая монеты.
+
+#EXERCISE:
+с довольн|_||_| видом пересчитывая монет|_|.
+
+#ANSWERS:
+ым, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 395
+#ORIGINAL:
+– Следующий! – закричал Гейнц.
+
+#EXERCISE:
+– Следующи|_|! – закрич|_||_| Гейнц.
+
+#ANSWERS:
+й, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 396
+#ORIGINAL:
+Тем временем стражники, подсадив, 
+
+#EXERCISE:
+Тем времене|_| стражни|_||_|, подсадив,
+
+#ANSWERS:
+м, ки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 397
+#ORIGINAL:
+запихнули ведьму в фургон, 
+
+#EXERCISE:
+запихну|_||_| ведьм|_| в фургон,
+
+#ANSWERS:
+ли, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 398
+#ORIGINAL:
+и захлопнули дверь – 
+
+#EXERCISE:
+и захлопну|_||_| двер|_| –
+
+#ANSWERS:
+ли, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 399
+#ORIGINAL:
+фургон был уже битком набит 
+
+#EXERCISE:
+фург|_||_| был уж|_| битком набит
+
+#ANSWERS:
+он, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 400
+#ORIGINAL:
+разными необычайными тварями. 
+
+#EXERCISE:
+разны|_||_| необычайными тварям|_|.
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 401
+#ORIGINAL:
+Еще больше их ожидало своей участи тут же рядом.
+
+#EXERCISE:
+Еще больше их ожидало своей участи ту|_| же ряд|_||_|.
+
+#ANSWERS:
+т, ом
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 402
+#ORIGINAL:
+Следующим был старик, 
+
+#EXERCISE:
+Следующим бы|_| стар|_||_|,
+
+#ANSWERS:
+л, ик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 403
+#ORIGINAL:
+очевидно столяр – в фартуке, 
+
+#EXERCISE:
+очевид|_||_| столяр – в фартук|_|,
+
+#ANSWERS:
+но, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 404
+#ORIGINAL:
+с натруженными большими руками. 
+
+#EXERCISE:
+с натруженными больши|_||_| рукам|_|.
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 405
+#ORIGINAL:
+Он держал странного маленького человечка, 
+
+#EXERCISE:
+Он держал странного маленько|_||_| человечк|_|,
+
+#ANSWERS:
+го, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 406
+#ORIGINAL:
+похоже, сделанного из дерева, 
+
+#EXERCISE:
+похож|_|, сделанного из дере|_||_|,
+
+#ANSWERS:
+е, ва
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 407
+#ORIGINAL:
+с длинным острым носом, 
+
+#EXERCISE:
+с длинным остр|_||_| носо|_|,
+
+#ANSWERS:
+ым, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 408
+#ORIGINAL:
+которого посадил на стол перед Гейнцем.
+
+#EXERCISE:
+которого посадил н|_| стол пер|_||_| Гейнцем.
+
+#ANSWERS:
+а, ед
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 409
+#ORIGINAL:
+– Что у нас тут? – деловито спросил бравый капитан.
+
+#EXERCISE:
+– Что у нас тут? – деловит|_| спросил брав|_||_| капитан.
+
+#ANSWERS:
+о, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 410
+#ORIGINAL:
+– Это деревянный мальчик, – 
+
+#EXERCISE:
+– Эт|_| деревянн|_||_| мальчик, –
+
+#ANSWERS:
+о, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 411
+#ORIGINAL:
+ответил столяр.
+
+#EXERCISE:
+ответ|_||_| столя|_|.
+
+#ANSWERS:
+ил, р
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 412
+#ORIGINAL:
+– Нет, я не деревянный, я настоящий! – 
+
+#EXERCISE:
+– Нет, я н|_| деревянн|_||_|, я настоящий! –
+
+#ANSWERS:
+е, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 413
+#ORIGINAL:
+отчаянно завопил мальчишка. 
+
+#EXERCISE:
+отчаянно завоп|_||_| мальчишк|_|.
+
+#ANSWERS:
+ил, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 414
+#ORIGINAL:
+Но это была ложь, 
+
+#EXERCISE:
+Но эт|_| бы|_||_| ложь,
+
+#ANSWERS:
+о, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 415
+#ORIGINAL:
+и тут же на глазах у всех его нос стал расти,
+
+#EXERCISE:
+и тут же на глаз|_||_| у всех ег|_| нос стал расти,
+
+#ANSWERS:
+ах, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 416
+#ORIGINAL:
+и вытянулся на целый ярд. 
+
+#EXERCISE:
+и вытянулс|_| на цел|_||_| ярд.
+
+#ANSWERS:
+я, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 417
+#ORIGINAL:
+Гейнц был в восторге.
+
+#EXERCISE:
+Гейнц б|_||_| в восторг|_|.
+
+#ANSWERS:
+ыл, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 418
+#ORIGINAL:
+– Прекрасно! 
+
+#EXERCISE:
+– Прекрас|_||_|!
+
+#ANSWERS:
+но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 419
+#ORIGINAL:
+Пять шиллингов за одержимую дьяволом игрушку, – 
+
+#EXERCISE:
+Пять шиллингов за одержим|_||_| дьяволом игрушк|_|, –
+
+#ANSWERS:
+ую, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 420
+#ORIGINAL:
+сказал он, доставая монету 
+
+#EXERCISE:
+сказ|_||_| он, доставая монет|_|
+
+#ANSWERS:
+ал, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 421
+#ORIGINAL:
+из стоящего перед ним сундучка. 
+
+#EXERCISE:
+из стоящего пер|_||_| ним сундучк|_|.
+
+#ANSWERS:
+ед, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 422
+#ORIGINAL:
+– Увести его. Следующий.
+
+#EXERCISE:
+– Увести ег|_|. Следующ|_||_|.
+
+#ANSWERS:
+о, ий
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 423
+#ORIGINAL:
+Следующей была пожилая крестьянка в чепчике, 
+
+#EXERCISE:
+Следующей была пожил|_||_| крестьянка в чепчик|_|,
+
+#ANSWERS:
+ая, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 424
+#ORIGINAL:
+державшая на поводу Осла. 
+
+#EXERCISE:
+державшая на повод|_| Ос|_||_|.
+
+#ANSWERS:
+у, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 425
+#ORIGINAL:
+Уже некоторое время 
+
+#EXERCISE:
+Уже некотор|_||_| врем|_|
+
+#ANSWERS:
+ое, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 426
+#ORIGINAL:
+Осел пытался привлечь её внимание, 
+
+#EXERCISE:
+Осел пытался привлечь е|_| вниман|_||_|,
+
+#ANSWERS:
+ё, ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 427
+#ORIGINAL:
+дергая повод, 
+
+#EXERCISE:
+дерг|_||_| повод,
+
+#ANSWERS:
+ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 428
+#ORIGINAL:
+а когда та злобно шипела на него, 
+
+#EXERCISE:
+а когда та злобно шипе|_||_| на нег|_|,
+
+#ANSWERS:
+ла, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 429
+#ORIGINAL:
+он бормотал:
+
+#EXERCISE:
+о|_| бормот|_||_|:
+
+#ANSWERS:
+н, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 430
+#ORIGINAL:
+– Я могу исправиться!
+
+#EXERCISE:
+– Я мог|_| исправить|_||_|!
+
+#ANSWERS:
+у, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 431
+#ORIGINAL:
+Пожалуйста, дай мне ещё один шанс! – 
+
+#EXERCISE:
+Пожалуйс|_||_|, дай мне ещ|_| один шанс! –
+
+#ANSWERS:
+та, ё
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 432
+#ORIGINAL:
+но она не обращала на его слова внимания.
+
+#EXERCISE:
+но она не обраща|_||_| на его слов|_| внимания.
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 433
+#ORIGINAL:
+Услышав призыв Гейнца, 
+
+#EXERCISE:
+Услыш|_||_| призыв Гейнц|_|,
+
+#ANSWERS:
+ав, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 434
+#ORIGINAL:
+старуха подошла к столу – 
+
+#EXERCISE:
+старуха подош|_||_| к стол|_| –
+
+#ANSWERS:
+ла, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 435
+#ORIGINAL:
+Осел упирался, натягивая уздечку.
+
+#EXERCISE:
+Осел упирал|_||_|, натягивая уздечк|_|.
+
+#ANSWERS:
+ся, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 436
+#ORIGINAL:
+– Что у нас здесь? – 
+
+#EXERCISE:
+– Чт|_| у нас зде|_||_|? –
+
+#ANSWERS:
+о, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 437
+#ORIGINAL:
+в очередной раз вопросил Гейнц.
+
+#EXERCISE:
+в очередной ра|_| вопрос|_||_| Гейнц.
+
+#ANSWERS:
+з, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 438
+#ORIGINAL:
+– Ну… У меня говорящий осел, – 
+
+#EXERCISE:
+– Ну… У мен|_| говорящ|_||_| осел, –
+
+#ANSWERS:
+я, ий
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 439
+#ORIGINAL:
+сказала женщина, 
+
+#EXERCISE:
+сказа|_||_| женщин|_|,
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 440
+#ORIGINAL:
+свирепо дергая повод.
+
+#EXERCISE:
+свиреп|_| дерг|_||_| повод.
+
+#ANSWERS:
+о, ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 441
+#ORIGINAL:
+– Отлично. Этот пойдёт за десять шиллингов… 
+
+#EXERCISE:
+– Отличн|_|. Этот пойдёт за десять шиллинг|_||_|…
+
+#ANSWERS:
+о, ов
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 442
+#ORIGINAL:
+если вы сможете доказать свои слова.
+
+#EXERCISE:
+если в|_| сможете доказать св|_||_| слова.
+
+#ANSWERS:
+ы, ои
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 443
+#ORIGINAL:
+– Давай, мой маленький дружок! – 
+
+#EXERCISE:
+– Давай, мо|_| маленьк|_||_| дружок! –
+
+#ANSWERS:
+й, ий
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 444
+#ORIGINAL:
+умильным голосом обратилась женщина к Ослу, 
+
+#EXERCISE:
+умильным голосом обратила|_||_| женщина к Осл|_|,
+
+#ANSWERS:
+сь, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 445
+#ORIGINAL:
+снимая с его морды уздечку. 
+
+#EXERCISE:
+снимая с ег|_| мор|_||_| уздечку.
+
+#ANSWERS:
+о, ды
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 446
+#ORIGINAL:
+Но Осел только смотрел на неё, 
+
+#EXERCISE:
+Но Осел только смотр|_||_| на не|_|,
+
+#ANSWERS:
+ел, ё
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 447
+#ORIGINAL:
+моргая большими карими глазами.
+
+#EXERCISE:
+моргая большими кари|_||_| глазам|_|.
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 448
+#ORIGINAL:
+– Ну!.. – протянул Гейнц. 
+
+#EXERCISE:
+– Ну!.. – протян|_||_| Гейнц.
+
+#ANSWERS:
+ул
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 449
+#ORIGINAL:
+Его интонация не предвещала ничего доброго
+
+#EXERCISE:
+Его интонация не предвеща|_||_| ничего доброг|_|
+
+#ANSWERS:
+ла, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 450
+#ORIGINAL:
+– Ох, он просто немного нервничает! 
+
+#EXERCISE:
+– Ох, он прост|_| немного нервнича|_||_|!
+
+#ANSWERS:
+о, ет
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 451
+#ORIGINAL:
+Вообще то он такой болтун, – 
+
+#EXERCISE:
+Вообще то о|_| так|_||_| болтун, –
+
+#ANSWERS:
+н, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 452
+#ORIGINAL:
+зачастила женщина, 
+
+#EXERCISE:
+зачасти|_||_| женщин|_|,
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 453
+#ORIGINAL:
+подобострастно заглядывая Гейнцу в глаза, 
+
+#EXERCISE:
+подобострастно заглядывая Гейнц|_| в гла|_||_|,
+
+#ANSWERS:
+у, за
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 454
+#ORIGINAL:
+и тут же свирепо напустилась на осла: 
+
+#EXERCISE:
+и тут же свирепо напустила|_||_| на осл|_|:
+
+#ANSWERS:
+сь, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 455
+#ORIGINAL:
+– Ну ты, давай! А то… – 
+
+#EXERCISE:
+– Ну т|_|, дав|_||_|! А то… –
+
+#ANSWERS:
+ы, ай
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 456
+#ORIGINAL:
+И она замахнулась кулаком.
+
+#EXERCISE:
+И он|_| замахнула|_||_| кулаком.
+
+#ANSWERS:
+а, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 457
+#ORIGINAL:
+– Понятно, – промолвил Гейнц, – 
+
+#EXERCISE:
+– Понятн|_|, – промолв|_||_| Гейнц, –
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 458
+#ORIGINAL:
+Достаточно. Стража!
+
+#EXERCISE:
+Достаточ|_||_|. Страж|_|!
+
+#ANSWERS:
+но, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 459
+#ORIGINAL:
+– Нет, нет, нет! Он говорит! Он может! 
+
+#EXERCISE:
+– Нет, нет, нет! Он говор|_||_|! Он може|_|!
+
+#ANSWERS:
+ит, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 460
+#ORIGINAL:
+– И женщина, скривив рот 
+
+#EXERCISE:
+– И женщи|_||_|, скривив ро|_|
+
+#ANSWERS:
+на, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 461
+#ORIGINAL:
+и поплотнее сжимая губы, загнусавила: 
+
+#EXERCISE:
+и поплотнее сжимая губ|_|, загнусави|_||_|:
+
+#ANSWERS:
+ы, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 462
+#ORIGINAL:
+– Я говорящий осел, 
+
+#EXERCISE:
+– Я говорящ|_||_| осе|_|,
+
+#ANSWERS:
+ий, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 463
+#ORIGINAL:
+я могу говорить и могу не говорить…
+
+#EXERCISE:
+я мог|_| говори|_||_| и мог|_| не говори|_||_|…
+
+#ANSWERS:
+у, ть, у, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 464
+#ORIGINAL:
+Я могу сказать всё, что угодно…
+
+#EXERCISE:
+Я могу сказа|_||_| всё, чт|_| угодно…
+
+#ANSWERS:
+ть, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 465
+#ORIGINAL:
+– Уберите её с моих глаз, – 
+
+#EXERCISE:
+– Убери|_||_| её с мои|_| глаз, –
+
+#ANSWERS:
+те, х
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 466
+#ORIGINAL:
+небрежно махнул рукой Гейнц, 
+
+#EXERCISE:
+небрежн|_| махнул рук|_||_| Гейнц,
+
+#ANSWERS:
+о, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 467
+#ORIGINAL:
+и стоящие за его спиной латники 
+
+#EXERCISE:
+и стоящие за ег|_| спин|_||_| латники
+
+#ANSWERS:
+о, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 468
+#ORIGINAL:
+дружно шагнули вперед.
+
+#EXERCISE:
+дружн|_| шагну|_||_| вперед.
+
+#ANSWERS:
+о, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 469
+#ORIGINAL:
+Они схватили старуху за руки и потащили. 
+
+#EXERCISE:
+Они схватили старух|_| за руки и потащи|_||_|.
+
+#ANSWERS:
+у, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 470
+#ORIGINAL:
+Та неистово брыкалась, выкрикивая:
+
+#EXERCISE:
+Та неистов|_| брыкала|_||_|, выкрикивая:
+
+#ANSWERS:
+о, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 471
+#ORIGINAL:
+– Нет, нет! Я клянусь, нет! – 
+
+#EXERCISE:
+– Не|_|, не|_|! Я кляну|_||_|, не|_|! –
+
+#ANSWERS:
+т, т, сь, т
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 472
+#ORIGINAL:
+и она случайно поддала ногой клетку,
+
+#EXERCISE:
+и она случайно поддала ног|_||_| клетк|_|,
+
+#ANSWERS:
+ой, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 473
+#ORIGINAL:
+которую держал в руках 
+
+#EXERCISE:
+котору|_| держ|_||_| в руках
+
+#ANSWERS:
+ю, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 474
+#ORIGINAL:
+стоявший следом за нею в очереди мальчик. 
+
+#EXERCISE:
+стоявш|_||_| следом за нею в очеред|_| мальчик.
+
+#ANSWERS:
+ий, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 475
+#ORIGINAL:
+В клетке сидело какое то странное существо 
+
+#EXERCISE:
+В клетке сидело какое то странн|_||_| существ|_|
+
+#ANSWERS:
+ое, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 476
+#ORIGINAL:
+с большими крыльями, 
+
+#EXERCISE:
+с больши|_||_| крыльям|_|,
+
+#ANSWERS:
+ми, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 477
+#ORIGINAL:
+испускающее мягкий золотистый свет. 
+
+#EXERCISE:
+испускающее мягк|_||_| золотисты|_| свет.
+
+#ANSWERS:
+ий, й
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 478
+#ORIGINAL:
+Рассыпая золотые искры, 
+
+#EXERCISE:
+Рассыпая золот|_||_| искр|_|,
+
+#ANSWERS:
+ые, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 479
+#ORIGINAL:
+клетка взлетела высоко в воздух, 
+
+#EXERCISE:
+клетка взлете|_||_| высок|_| в воздух,
+
+#ANSWERS:
+ла, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 480
+#ORIGINAL:
+и, падая, угодила прямо на голову Осла. 
+
+#EXERCISE:
+и, падая, угоди|_||_| прямо на голов|_| Осла.
+
+#ANSWERS:
+ла, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 481
+#ORIGINAL:
+Казалось, в стороны брызнул сноп огня. 
+
+#EXERCISE:
+Казалось, в стороны брызн|_||_| сноп огн|_|.
+
+#ANSWERS:
+ул, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 482
+#ORIGINAL:
+Осел весь окутался золотистым сиянием, 
+
+#EXERCISE:
+Осел вес|_| окутал|_||_| золотистым сиянием,
+
+#ANSWERS:
+ь, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 483
+#ORIGINAL:
+замотал головой, и… 
+
+#EXERCISE:
+замота|_| голов|_||_|, и…
+
+#ANSWERS:
+л, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 484
+#ORIGINAL:
+плавно поднялся в воздух!
+
+#EXERCISE:
+плавн|_| поднял|_||_| в воздух!
+
+#ANSWERS:
+о, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 485
+#ORIGINAL:
+Он летел все выше и выше, 
+
+#EXERCISE:
+Он лет|_||_| все выш|_| и выш|_|,
+
+#ANSWERS:
+ел, е, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 486
+#ORIGINAL:
+как бы загребая воздух ногами, 
+
+#EXERCISE:
+как бы загребая возду|_| нога|_||_|,
+
+#ANSWERS:
+х, ми
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 487
+#ORIGINAL:
+размахивая хвостом и прядая ушами, 
+
+#EXERCISE:
+размахивая хвост|_||_| и прядая ушам|_|,
+
+#ANSWERS:
+ом, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 488
+#ORIGINAL:
+а все, раскрыв рты, 
+
+#EXERCISE:
+а вс|_|, раскрыв р|_||_|,
+
+#ANSWERS:
+е, ты
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 489
+#ORIGINAL:
+ошеломленно глядели на него, 
+
+#EXERCISE:
+ошеломленно гляде|_||_| на нег|_|,
+
+#ANSWERS:
+ли, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 490
+#ORIGINAL:
+и только мальчик, 
+
+#EXERCISE:
+и толь|_||_| мальчи|_|,
+
+#ANSWERS:
+ко, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 491
+#ORIGINAL:
+принесший клетку с волшебной бабочкой,
+
+#EXERCISE:
+принесший клетк|_| с волшебн|_||_| бабочкой,
+
+#ANSWERS:
+у, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 492
+#ORIGINAL:
+подбоченясь, принял вид гордый и независимый.
+
+#EXERCISE:
+подбоченясь, принял вид горд|_||_| и независимы|_|.
+
+#ANSWERS:
+ый, й
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 493
+#ORIGINAL:
+– Эй, я могу летать! – 
+
+#EXERCISE:
+– Эй, я мог|_| лета|_||_|! –
+
+#ANSWERS:
+у, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 494
+#ORIGINAL:
+вскричал Осел, поднявшись на несколько ярдов.
+
+#EXERCISE:
+вскрич|_||_| Осел, поднявшись на нескольк|_| ярдов.
+
+#ANSWERS:
+ал, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 495
+#ORIGINAL:
+– Он может летать! – шумно выдохнула толпа.
+
+#EXERCISE:
+– Он может летать! – шумн|_| выдохну|_||_| толпа.
+
+#ANSWERS:
+о, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 496
+#ORIGINAL:
+– Он может летать… 
+
+#EXERCISE:
+– О|_| мож|_||_| летать…
+
+#ANSWERS:
+н, ет
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 497
+#ORIGINAL:
+Он может говорить! – 
+
+#EXERCISE:
+Он може|_| говори|_||_|! –
+
+#ANSWERS:
+т, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 498
+#ORIGINAL:
+спохватился Гейнц, вскакивая на ноги
+
+#EXERCISE:
+спохватил|_||_| Гейнц, вскакивая на ног|_|
+
+#ANSWERS:
+ся, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 499
+#ORIGINAL:
+– Точно! – воскликнул Осел.
+
+#EXERCISE:
+– Точн|_|! – воскликн|_||_| Осел.
+
+#ANSWERS:
+о, ул
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 500
+#ORIGINAL:
+– Никто ещё не видел летающего говорящего осла! 
+
+#EXERCISE:
+– Никто ещ|_| не видел летающего говоряще|_||_| осла!
+
+#ANSWERS:
+ё, го
+
+--- PAGE END ---
