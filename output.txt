@@ -34471,3 +34471,2410 @@
 к, но
 
 --- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2801
+#ORIGINAL:
+словно нёс на плече мешок картошки.
+#EXERCISE:
+словно нёс на плеч|_| мешок картош|_|.
+
+#ANSWERS:
+е, ки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2802
+#ORIGINAL:
+Глава четырнадцатая 
+#EXERCISE:
+Глав|_| четырнадцат|_|
+
+#ANSWERS:
+а, ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2803
+#ORIGINAL:
+Ночлег в лесу 
+#EXERCISE:
+Ночле|_| в ле|_|
+
+#ANSWERS:
+г, су
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2804
+#ORIGINAL:
+Спустя час они вошли в лес.  
+#EXERCISE:
+Спустя час он|_| вош|_| в лес.
+
+#ANSWERS:
+и, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2805
+#ORIGINAL:
+Фиона продолжала ехать на плече у Шрека,  
+#EXERCISE:
+Фиона продолжа|_| ехать на плеч|_| у Шрека,
+
+#ANSWERS:
+ла, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2806
+#ORIGINAL:
+подпирая щёку рукой  
+#EXERCISE:
+подпирая щёк|_| рук|_|
+
+#ANSWERS:
+у, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2807
+#ORIGINAL:
+и опираясь локтем на его спину,  
+#EXERCISE:
+и опираясь локтем н|_| его спи|_|,
+
+#ANSWERS:
+а, ну
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2808
+#ORIGINAL:
+как будто лежала на кушетке.  
+#EXERCISE:
+как будт|_| лежа|_| на кушетке.
+
+#ANSWERS:
+о, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2809
+#ORIGINAL:
+Осёл, идя сзади, утешал её, разглагольствуя: 
+#EXERCISE:
+Осёл, идя сзад|_|, утеш|_| её, разглагольствуя:
+
+#ANSWERS:
+и, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2810
+#ORIGINAL:
+– А если подойти к этому с другой стороны?  
+#EXERCISE:
+– А есл|_| подойти к этому с друг|_| стороны?
+
+#ANSWERS:
+и, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2811
+#ORIGINAL:
+Вам там ехать довольно удобно,  
+#EXERCISE:
+Вам там еха|_| довольн|_| удобно,
+
+#ANSWERS:
+ть, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2812
+#ORIGINAL:
+и не нужно сбивать ноги,  
+#EXERCISE:
+и не нужн|_| сбивать но|_|,
+
+#ANSWERS:
+о, ги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2813
+#ORIGINAL:
+топая в этой пыли…  
+#EXERCISE:
+топая в эт|_| пыл|_|…
+
+#ANSWERS:
+ой, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2814
+#ORIGINAL:
+Как вы на это смотрите, а?  
+#EXERCISE:
+Как вы на эт|_| смотри|_|, а?
+
+#ANSWERS:
+о, те
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2815
+#ORIGINAL:
+Ну, ведь хорошо же? 
+#EXERCISE:
+Ну, ведь хоро|_| ж|_|?
+
+#ANSWERS:
+шо, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2816
+#ORIGINAL:
+– Как жаль, что он – не моя настоящая любовь, –  
+#EXERCISE:
+– Как жаль, чт|_| он – не моя настоящ|_| любовь, –
+
+#ANSWERS:
+о, ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2817
+#ORIGINAL:
+жаловалась Фиона, –  
+#EXERCISE:
+жаловала|_| Фион|_|, –
+
+#ANSWERS:
+сь, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2818
+#ORIGINAL:
+это такое счастье – найти её!  
+#EXERCISE:
+это так|_| счасть|_| – найти её!
+
+#ANSWERS:
+ое, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2819
+#ORIGINAL:
+– Шрек, покосившись на свою «ношу»,  
+#EXERCISE:
+– Шрек, покосившись н|_| св|_| «ношу»,
+
+#ANSWERS:
+а, ою
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2820
+#ORIGINAL:
+как раз на этом месте сильно встряхнул её,  
+#EXERCISE:
+как раз на этом месте сильн|_| встряхн|_| её,
+
+#ANSWERS:
+о, ул
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2821
+#ORIGINAL:
+подкинув на плече поудобнее. 
+#EXERCISE:
+подкинув н|_| пле|_| поудобнее.
+
+#ANSWERS:
+а, че
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2822
+#ORIGINAL:
+Фиона возмущенно охнула,  
+#EXERCISE:
+Фиона возмущенн|_| охну|_|,
+
+#ANSWERS:
+о, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2823
+#ORIGINAL:
+и с вызовом продолжала: 
+#EXERCISE:
+и с вызово|_| продолжа|_|:
+
+#ANSWERS:
+м, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2824
+#ORIGINAL:
+– Чем быстрее мы встретим этого лорда, тем лучше! 
+#EXERCISE:
+– Чем быстрее мы встретим это|_| лорда, тем лучш|_|!
+
+#ANSWERS:
+го, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2825
+#ORIGINAL:
+– О, да, он вам понравится, принцесса, он прекрасен! –  
+#EXERCISE:
+– О, д|_|, он вам понравит|_|, принцесса, он прекрасен! –
+
+#ANSWERS:
+а, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2826
+#ORIGINAL:
+заявил Осел. 
+#EXERCISE:
+заяв|_| Осе|_|.
+
+#ANSWERS:
+ил, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2827
+#ORIGINAL:
+– Какой он, моя мечта, лорд Фарквуд? 
+#EXERCISE:
+– Как|_| он, моя мечт|_|, лорд Фарквуд?
+
+#ANSWERS:
+ой, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2828
+#ORIGINAL:
+На это ответил Шрек: 
+#EXERCISE:
+На эт|_| ответ|_| Шрек:
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2829
+#ORIGINAL:
+– Ну, скажем так, принцесса, –  
+#EXERCISE:
+– Ну, скажем та|_|, принцес|_|, –
+
+#ANSWERS:
+к, са
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2830
+#ORIGINAL:
+тут они подошли к реке,  
+#EXERCISE:
+тут они подош|_| к рек|_|,
+
+#ANSWERS:
+ли, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2831
+#ORIGINAL:
+и Шрек бесцеремонно сбросил принцессу на песок. 
+
+ 
+#EXERCISE:
+и Шрек бесцеремонн|_| сбросил принцес|_| на песок.
+
+#ANSWERS:
+о, су
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2832
+#ORIGINAL:
+– Этот человек маленький, щуплый… –  
+#EXERCISE:
+– Это|_| человек маленьк|_|, щуплый… –
+
+#ANSWERS:
+т, ий
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2833
+#ORIGINAL:
+Шрек расхохотался,  
+#EXERCISE:
+Шре|_| расхохотал|_|,
+
+#ANSWERS:
+к, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2834
+#ORIGINAL:
+и направился к берегу. 
+#EXERCISE:
+и направил|_| к берег|_|.
+
+#ANSWERS:
+ся, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2835
+#ORIGINAL:
+Принцесса поднялась  
+#EXERCISE:
+Принцес|_| поднялас|_|
+
+#ANSWERS:
+са, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2836
+#ORIGINAL:
+и отряхнула платье от пыли.  
+#EXERCISE:
+и отряхну|_| плать|_| от пыли.
+
+#ANSWERS:
+ла, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2837
+#ORIGINAL:
+Шрек, наклонившись к воде, смывал с лица копоть,  
+#EXERCISE:
+Шрек, наклонившись к вод|_|, смыв|_| с лица копоть,
+
+#ANSWERS:
+е, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2838
+#ORIGINAL:
+а Осёл, подойдя поближе, сказал, ухмыляясь: 
+#EXERCISE:
+а Осёл, подойдя поближ|_|, сказ|_|, ухмыляясь:
+
+#ANSWERS:
+е, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2839
+#ORIGINAL:
+– Нет, нет! Ну, зачем ты так говоришь, что ты! Маленький… –  
+#EXERCISE:
+– Нет, нет! Ну, зачем ты так говори|_|, что т|_|! Маленький… –
+
+#ANSWERS:
+шь, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2840
+#ORIGINAL:
+и Осёл со Шреком опять расхохотались. 
+#EXERCISE:
+и Осёл со Шреком опят|_| расхохотали|_|.
+
+#ANSWERS:
+ь, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2841
+#ORIGINAL:
+– Я знаю, вы просто завидуете! –  
+#EXERCISE:
+– Я знаю, вы прост|_| завидуе|_|! –
+
+#ANSWERS:
+о, те
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2842
+#ORIGINAL:
+воскликнула Фиона.  
+#EXERCISE:
+воскликну|_| Фион|_|.
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2843
+#ORIGINAL:
+– Вам никогда не оценить  
+#EXERCISE:
+– Вам никог|_| н|_| оценить
+
+#ANSWERS:
+да, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2844
+#ORIGINAL:
+такого великого правителя, как лорд Фарквуд, –  
+#EXERCISE:
+такого велико|_| правител|_|, как лорд Фарквуд, –
+
+#ANSWERS:
+го, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2845
+#ORIGINAL:
+на лице у неё снова появилось мечтательное выражение. 
+#EXERCISE:
+на лице у неё снов|_| появилось мечтательн|_| выражение.
+
+#ANSWERS:
+а, ое
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2846
+#ORIGINAL:
+– Да, возможно, вы правы, принцесса, –  
+#EXERCISE:
+– Да, возможно, вы прав|_|, принцес|_|, –
+
+#ANSWERS:
+ы, са
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2847
+#ORIGINAL:
+задумчиво произнёс Шрек.  
+#EXERCISE:
+задумчив|_| произн|_| Шрек.
+
+#ANSWERS:
+о, ёс
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2848
+#ORIGINAL:
+– Но вы будете проводить эту оценку,  
+#EXERCISE:
+– Но в|_| буде|_| проводить эту оценку,
+
+#ANSWERS:
+ы, те
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2849
+#ORIGINAL:
+когда мы встретимся с ним завтра. 
+#EXERCISE:
+когда мы встретим|_| с ним завтр|_|.
+
+#ANSWERS:
+ся, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2850
+#ORIGINAL:
+– Завтра? – спросила Фиона, взглянув на запад –  
+#EXERCISE:
+– Завтр|_|? – спроси|_| Фиона, взглянув на запад –
+
+#ANSWERS:
+а, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2851
+#ORIGINAL:
+солнце садилось в лесной прогалине,  
+#EXERCISE:
+солн|_| садилось в лесной прогалин|_|,
+
+#ANSWERS:
+це, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2852
+#ORIGINAL:
+и от горизонта солнечный диск отделяло совсем немного.  
+#EXERCISE:
+и от горизонта солнечный диск отделял|_| совсем немно|_|.
+
+#ANSWERS:
+о, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2853
+#ORIGINAL:
+Всё вокруг уже приобрело  
+#EXERCISE:
+Всё вокр|_| уже приобрел|_|
+
+#ANSWERS:
+уг, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2854
+#ORIGINAL:
+тот мягкий и прозрачный оттенок пасторали,  
+#EXERCISE:
+тот мягкий и прозрачн|_| оттенок пасторали,
+
+#ANSWERS:
+ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2855
+#ORIGINAL:
+какой имеет природа на закате.  
+#EXERCISE:
+какой имеет приро|_| на закат|_|.
+
+#ANSWERS:
+да, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2856
+#ORIGINAL:
+– Путь туда такой долгий? 
+#EXERCISE:
+– Путь туд|_| такой долг|_|?
+
+#ANSWERS:
+а, ий
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2857
+#ORIGINAL:
+Может, нам разбить лагерь? 
+#EXERCISE:
+Может, нам разби|_| лагер|_|?
+
+#ANSWERS:
+ть, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2858
+#ORIGINAL:
+– Нет, – ответил Шрек,  
+#EXERCISE:
+– Не|_|, – ответ|_| Шрек,
+
+#ANSWERS:
+т, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2859
+#ORIGINAL:
+отходя от берега реки, –  
+#EXERCISE:
+отходя от берег|_| ре|_|, –
+
+#ANSWERS:
+а, ки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2860
+#ORIGINAL:
+тогда путь станет ещё дольше!  
+#EXERCISE:
+тогда путь стан|_| ещ|_| дольше!
+
+#ANSWERS:
+ет, ё
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2861
+#ORIGINAL:
+Мы пойдём дальше. 
+#EXERCISE:
+Мы пойд|_| дальш|_|.
+
+#ANSWERS:
+ём, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2862
+#ORIGINAL:
+– Но… Но… В лесах скрываются разбойники, – сказала Фиона, 
+ 
+#EXERCISE:
+– Но… Но… В лесах скрываются разбойник|_|, – сказа|_| Фиона,
+
+#ANSWERS:
+и, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2863
+#ORIGINAL:
+торопясь за Шреком.  
+#EXERCISE:
+торопясь з|_| Шрек|_|.
+
+#ANSWERS:
+а, ом
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2864
+#ORIGINAL:
+Ясно было, что ей почему то очень не хочется идти дальше. 
+#EXERCISE:
+Ясно был|_|, что ей почему то очень не хочет|_| идти дальше.
+
+#ANSWERS:
+о, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2865
+#ORIGINAL:
+– Ах, так! – воскликнул Осел,  
+#EXERCISE:
+– Ах, та|_|! – воскликн|_| Осел,
+
+#ANSWERS:
+к, ул
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2866
+#ORIGINAL:
+– По моему, Шрек, тогда лучше действительно разбить лагерь! 
+#EXERCISE:
+– По моему, Шрек, тогда лучш|_| действительно разби|_| лагерь!
+
+#ANSWERS:
+е, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2867
+#ORIGINAL:
+– Пошли! – сказал Шрек.  
+#EXERCISE:
+– Пошл|_|! – сказ|_| Шрек.
+
+#ANSWERS:
+и, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2868
+#ORIGINAL:
+Он презрительно сморщил нос.  
+#EXERCISE:
+Он презрительн|_| сморщ|_| нос.
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2869
+#ORIGINAL:
+– Я напугаю всё, что может нам встретиться в этом лесу. 
+#EXERCISE:
+– Я напугаю вс|_|, что может нам встретить|_| в этом лесу.
+
+#ANSWERS:
+ё, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2870
+#ORIGINAL:
+Но тут внезапно Фиона выбежала вперёд,  
+#EXERCISE:
+Но тут внезапн|_| Фиона выбежа|_| вперёд,
+
+#ANSWERS:
+о, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2871
+#ORIGINAL:
+повернулась к нему лицом,  
+#EXERCISE:
+повернулась к нем|_| лиц|_|,
+
+#ANSWERS:
+у, ом
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2872
+#ORIGINAL:
+и, сжав кулаки и прижимая руки к груди, закричала: 
+#EXERCISE:
+и, сжав кулаки и прижимая руки к груд|_|, закрича|_|:
+
+#ANSWERS:
+и, ла
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2873
+#ORIGINAL:
+– Найди место, где можно разбить лагерь! Немедленно! 
+#EXERCISE:
+– Найди место, где мож|_| разбить лагерь! Немедленн|_|!
+
+#ANSWERS:
+но, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2874
+#ORIGINAL:
+Шрек опешил, и недоуменно, даже несколько испуганно, 
+#EXERCISE:
+Шрек опеш|_|, и недоуменно, даж|_| несколько испуганно,
+
+#ANSWERS:
+ил, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2875
+#ORIGINAL:
+переглянулся с Ослом. 
+#EXERCISE:
+переглянул|_| с Осло|_|.
+
+#ANSWERS:
+ся, м
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2876
+#ORIGINAL:
+Место для лагеря нашлось совсем рядом.  
+#EXERCISE:
+Место для лагер|_| нашло|_| совсем рядом.
+
+#ANSWERS:
+я, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2877
+#ORIGINAL:
+Шрек отодвинул в сторону огромный камень,  
+#EXERCISE:
+Шрек отодвин|_| в сторон|_| огромный камень,
+
+#ANSWERS:
+ул, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2878
+#ORIGINAL:
+и за ним в скале обнаружилась глубокая ниша,  
+#EXERCISE:
+и за ним в скале обнаружилась глубок|_| ниш|_|,
+
+#ANSWERS:
+ая, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2879
+#ORIGINAL:
+настоящая пещера.  
+#EXERCISE:
+настоящ|_| пещер|_|.
+
+#ANSWERS:
+ая, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2880
+#ORIGINAL:
+Дно её было сухое и ровное,  
+#EXERCISE:
+Дно её был|_| сух|_| и ровное,
+
+#ANSWERS:
+о, ое
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2881
+#ORIGINAL:
+а вход достаточно высок,  
+#EXERCISE:
+а вхо|_| достаточ|_| высок,
+
+#ANSWERS:
+д, но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2882
+#ORIGINAL:
+чтобы человек мог туда войти, слегка нагнувшись. 
+#EXERCISE:
+чтобы человек мог туда вой|_|, слегк|_| нагнувшись.
+
+#ANSWERS:
+ти, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2883
+#ORIGINAL:
+– Эй, сюда! – позвал Шрек. 
+#EXERCISE:
+– Эй, сюд|_|! – позв|_| Шрек.
+
+#ANSWERS:
+а, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2884
+#ORIGINAL:
+Осёл первым подошёл к пещере  
+#EXERCISE:
+Осёл первым подош|_| к пещер|_|
+
+#ANSWERS:
+ёл, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2885
+#ORIGINAL:
+и, заглянув внутрь, тихонько сказал: 
+#EXERCISE:
+и, заглянув внутрь, тихоньк|_| сказ|_|:
+
+#ANSWERS:
+о, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2886
+#ORIGINAL:
+– Шрек, ты мог бы найти что нибудь получше.  
+#EXERCISE:
+– Шрек, ты мог б|_| найти что нибу|_| получше.
+
+#ANSWERS:
+ы, дь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2887
+#ORIGINAL:
+Я не думаю, что это подходит для принцессы! 
+#EXERCISE:
+Я не думаю, что эт|_| подходит для принцес|_|!
+
+#ANSWERS:
+о, сы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2888
+#ORIGINAL:
+Но Фиона, поглядев на запад, –  
+#EXERCISE:
+Но Фиона, поглядев н|_| зап|_|, –
+
+#ANSWERS:
+а, ад
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2889
+#ORIGINAL:
+солнечный диск уже коснулся горизонта, –  
+#EXERCISE:
+солнечн|_| диск уже коснулся горизонт|_|, –
+
+#ANSWERS:
+ый, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2890
+#ORIGINAL:
+заявила: – Нет, нет, всё прекрасно.  
+#EXERCISE:
+заявила: – Нет, нет, вс|_| прекрас|_|.
+
+#ANSWERS:
+ё, но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2891
+#ORIGINAL:
+Только нужно сделать это более похожим на дом. 
+#EXERCISE:
+Только нужно сдела|_| это боле|_| похожим на дом.
+
+#ANSWERS:
+ть, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2892
+#ORIGINAL:
+– На дом? Это как? – спросил Шрек,  
+#EXERCISE:
+– На дом? Эт|_| как? – спрос|_| Шрек,
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2893
+#ORIGINAL:
+пожимая плечами. 
+#EXERCISE:
+пожима|_| плеча|_|.
+
+#ANSWERS:
+я, ми
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2894
+#ORIGINAL:
+Фиона подбежала к огромному дереву,  
+#EXERCISE:
+Фиона подбежал|_| к огромно|_| дереву,
+
+#ANSWERS:
+а, му
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2895
+#ORIGINAL:
+и отломила большущий кусок коры. 
+#EXERCISE:
+и отломила большущ|_| кусок кор|_|.
+
+#ANSWERS:
+ий, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2896
+#ORIGINAL:
+– Дверь! – пояснила она,  
+#EXERCISE:
+– Дверь! – поясни|_| он|_|,
+
+#ANSWERS:
+ла, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2897
+#ORIGINAL:
+подбегая к пещере и примеряя кору ко входу.  
+#EXERCISE:
+подбегая к пеще|_| и примеряя кору ко вход|_|.
+
+#ANSWERS:
+ре, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2898
+#ORIGINAL:
+– Ну, джентльмены, позвольте пожелать вам спокойной ночи! –  
+#EXERCISE:
+– Ну, джентльмены, позвольт|_| пожелать вам спокойн|_| ночи! –
+
+#ANSWERS:
+е, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2899
+#ORIGINAL:
+и она, войдя в пещеру,  
+#EXERCISE:
+и она, войд|_| в пеще|_|,
+
+#ANSWERS:
+я, ру
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2900
+#ORIGINAL:
+плотно загородила вход куском коры. 
+#EXERCISE:
+плотно загороди|_| вход куском кор|_|.
+
+#ANSWERS:
+ла, ы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2901
+#ORIGINAL:
+Солнце как раз посылало из за горизонта  
+#EXERCISE:
+Солнце как раз посыла|_| из за горизонт|_|
+
+#ANSWERS:
+ло, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2902
+#ORIGINAL:
+свои последние лучи. 
+#EXERCISE:
+свои последн|_| луч|_|.
+
+#ANSWERS:
+ие, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2903
+#ORIGINAL:
+– Эй, не могу ли я войти туда? –  
+#EXERCISE:
+– Эй, не мог|_| ли я вой|_| туда? –
+
+#ANSWERS:
+у, ти
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2904
+#ORIGINAL:
+спросил Осёл.  
+#EXERCISE:
+
+
+#ANSWERS:
+
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2905
+#ORIGINAL:
+– Может быть, вы хотите послушать истории на ночь? 
+#EXERCISE:
+– Может быть, в|_| хотите послуша|_| истории на ночь?
+
+#ANSWERS:
+ы, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2906
+#ORIGINAL:
+– Я сказала – спокойной ночи! –  
+#EXERCISE:
+– Я сказала – спокойн|_| ноч|_|! –
+
+#ANSWERS:
+ой, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2907
+#ORIGINAL:
+отрезала Фиона. 
+#EXERCISE:
+отреза|_| Фион|_|.
+
+#ANSWERS:
+л, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2908
+#ORIGINAL:
+Осел и Шрек снова переглянулись.  
+#EXERCISE:
+Осел и Шрек снов|_| переглянули|_|.
+
+#ANSWERS:
+а, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2909
+#ORIGINAL:
+Потом Шрек, обхватив руками камень,  
+#EXERCISE:
+Потом Шрек, обхватив рука|_| камен|_|,
+
+#ANSWERS:
+ми, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2910
+#ORIGINAL:
+загораживавший раньше вход в пещеру,  
+#EXERCISE:
+загораживавший раньше вх|_| в пещер|_|,
+
+#ANSWERS:
+од, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2911
+#ORIGINAL:
+сделал попытку подвинуть его на прежнее место.  
+#EXERCISE:
+сделал попытк|_| подвинуть его на прежн|_| место.
+
+#ANSWERS:
+у, ее
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2912
+#ORIGINAL:
+Наверное, ему пришла в голову мысль,  
+#EXERCISE:
+Наверное, ему приш|_| в голов|_| мысль,
+
+#ANSWERS:
+ла, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2913
+#ORIGINAL:
+что принцесса может ночью сбежать. 
+#EXERCISE:
+что принцесса может ночь|_| сбежа|_|.
+
+#ANSWERS:
+ю, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2914
+#ORIGINAL:
+– Шрек, ты что делаешь? –  
+#EXERCISE:
+– Шрек, ты чт|_| делае|_|? –
+
+#ANSWERS:
+о, шь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2915
+#ORIGINAL:
+прошипел Осёл. 
+#EXERCISE:
+прошип|_| Осё|_|.
+
+#ANSWERS:
+ел, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2916
+#ORIGINAL:
+– Э, ничего, – Шрек отказался от своей попытки  
+#EXERCISE:
+– Э, ничег|_|, – Шрек отказал|_| от своей попытки
+
+#ANSWERS:
+о, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2917
+#ORIGINAL:
+и махнул рукой.  
+#EXERCISE:
+и махн|_| руко|_|.
+
+#ANSWERS:
+ул, й
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2918
+#ORIGINAL:
+– Я просто пошутил, –  
+#EXERCISE:
+– Я прост|_| пошут|_|, –
+
+#ANSWERS:
+о, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2919
+#ORIGINAL:
+и в сопровождении Осла он направился к обрыву,  
+#EXERCISE:
+и в сопровождении Осл|_| он направил|_| к обрыву,
+
+#ANSWERS:
+а, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2920
+#ORIGINAL:
+которым заканчивалась каменистая площадка  
+#EXERCISE:
+которым заканчивалась каменист|_| площадк|_|
+
+#ANSWERS:
+ая, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2921
+#ORIGINAL:
+на краю большого оврага. 
+#EXERCISE:
+на краю большо|_| овраг|_|.
+
+#ANSWERS:
+го, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2922
+#ORIGINAL:
+Глава пятнадцатая 
+#EXERCISE:
+Глав|_| пятнадцат|_|
+
+#ANSWERS:
+а, ая
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2923
+#ORIGINAL:
+Астрономия и психология по ночам 
+#EXERCISE:
+Астрономия и психолог|_| п|_| ночам
+
+#ANSWERS:
+ия, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2924
+#ORIGINAL:
+– Вон там, – говорил Шрек,  
+#EXERCISE:
+– Вон та|_|, – говор|_| Шрек,
+
+#ANSWERS:
+м, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2925
+#ORIGINAL:
+показывая на небо, – созвездие!  
+#EXERCISE:
+показывая н|_| не|_|, – созвездие!
+
+#ANSWERS:
+а, бо
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2926
+#ORIGINAL:
+Это единственный людоед,  
+#EXERCISE:
+Эт|_| единственн|_| людоед,
+
+#ANSWERS:
+о, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2927
+#ORIGINAL:
+который может плюнуть через три пшеничных поля! 
+#EXERCISE:
+который может плюнут|_| через три пшеничн|_| поля!
+
+#ANSWERS:
+ь, ых
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2928
+#ORIGINAL:
+Они с Ослом лежали на краю обрыва на земле,  
+#EXERCISE:
+Они с Ослом лежа|_| на краю обрыв|_| на земле,
+
+#ANSWERS:
+ли, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2929
+#ORIGINAL:
+спиной к разведенному костру,  
+#EXERCISE:
+спиной к разведенно|_| костр|_|,
+
+#ANSWERS:
+му, у
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2930
+#ORIGINAL:
+и смотрели на звездное небо.  
+#EXERCISE:
+и смотрели на звездн|_| неб|_|.
+
+#ANSWERS:
+ое, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2931
+#ORIGINAL:
+Звезд там было видимо невидимо,  
+#EXERCISE:
+Звез|_| там бы|_| видимо невидимо,
+
+#ANSWERS:
+д, ло
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2932
+#ORIGINAL:
+как всегда в летнюю ночь,  
+#EXERCISE:
+как всег|_| в летнюю ноч|_|,
+
+#ANSWERS:
+да, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2933
+#ORIGINAL:
+и небо казалось очень глубоким,  
+#EXERCISE:
+и небо казалось очен|_| глубок|_|,
+
+#ANSWERS:
+ь, им
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2934
+#ORIGINAL:
+а звезды – яркими и близкими. 
+#EXERCISE:
+а звезд|_| – яркими и близки|_|.
+
+#ANSWERS:
+ы, ми
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2935
+#ORIGINAL:
+– Шрек, а ты не можешь предсказать моё 
+#EXERCISE:
+– Шрек, а ты н|_| можешь предсказа|_| моё
+
+#ANSWERS:
+е, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2936
+#ORIGINAL:
+будущее по звездам? –  
+#EXERCISE:
+будущее п|_| звезд|_|? –
+
+#ANSWERS:
+о, ам
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2937
+#ORIGINAL:
+спросил Осёл. 
+#EXERCISE:
+спрос|_| Осё|_|.
+
+#ANSWERS:
+ил, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2938
+#ORIGINAL:
+– Звезды не предсказывают будущее, Ослик!  
+#EXERCISE:
+– Звезд|_| не предсказыва|_| будущее, Ослик!
+
+#ANSWERS:
+ы, ют
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2939
+#ORIGINAL:
+Они рассказывают истории.  
+#EXERCISE:
+Он|_| рассказыва|_| истории.
+
+#ANSWERS:
+и, ют
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2940
+#ORIGINAL:
+Вот, например, Вонючка.  
+#EXERCISE:
+Во|_|, наприм|_|, Вонючка.
+
+#ANSWERS:
+т, ер
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2941
+#ORIGINAL:
+Ты знаешь, чем он знаменит? –  
+#EXERCISE:
+Ты знае|_|, чем о|_| знаменит? –
+
+#ANSWERS:
+шь, н
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2942
+#ORIGINAL:
+Шрек рассмеялся. 
+#EXERCISE:
+Шре|_| рассмеял|_|.
+
+#ANSWERS:
+к, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2943
+#ORIGINAL:
+– Ладно, а ты знаешь? 
+#EXERCISE:
+– Ладн|_|, а ты знае|_|?
+
+#ANSWERS:
+о, шь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2944
+#ORIGINAL:
+Расскажи, я слушаю. 
+#EXERCISE:
+Расскаж|_|, я слуш|_|.
+
+#ANSWERS:
+и, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2945
+#ORIGINAL:
+– Знаю, смотри.  
+#EXERCISE:
+– Зна|_|, смот|_|.
+
+#ANSWERS:
+ю, ри
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2946
+#ORIGINAL:
+Вон он, а это – охотники,  
+#EXERCISE:
+Вон он, а эт|_| – охотни|_|,
+
+#ANSWERS:
+о, ки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2947
+#ORIGINAL:
+бегущие от его запаха. 
+#EXERCISE:
+бегущие от ег|_| запа|_|.
+
+#ANSWERS:
+о, ха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2948
+#ORIGINAL:
+– Да это всего лишь куча точек на небе, –  
+#EXERCISE:
+– Да это всего лишь куч|_| точек на не|_|, –
+
+#ANSWERS:
+а, бе
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2949
+#ORIGINAL:
+скептически заметил Осёл. 
+#EXERCISE:
+скептически замет|_| Осё|_|.
+
+#ANSWERS:
+ил, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2950
+#ORIGINAL:
+– Знаешь, Осёл, иногда вещи другие,  
+#EXERCISE:
+– Знаешь, Осёл, иногд|_| вещи друг|_|,
+
+#ANSWERS:
+а, ие
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2951
+#ORIGINAL:
+чем выглядят на первый взгляд. 
+#EXERCISE:
+чем выглядят н|_| перв|_| взгляд.
+
+#ANSWERS:
+а, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2952
+#ORIGINAL:
+Осёл зевнул.  
+#EXERCISE:
+Осё|_| зевн|_|.
+
+#ANSWERS:
+л, ул
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2953
+#ORIGINAL:
+Некоторое время они молчали. 
+#EXERCISE:
+Некоторое время он|_| молча|_|.
+
+#ANSWERS:
+и, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2954
+#ORIGINAL:
+– Скажи, Шрек, –  
+#EXERCISE:
+– Ска|_|, Шре|_|, –
+
+#ANSWERS:
+жи, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2955
+#ORIGINAL:
+спросил Осёл, –  
+#EXERCISE:
+спрос|_| Осё|_|, –
+
+#ANSWERS:
+ил, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2956
+#ORIGINAL:
+а что ты будешь делать, когда мы вернемся 
+#EXERCISE:
+а что т|_| будешь делать, ког|_| мы вернемся
+
+#ANSWERS:
+ы, да
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2957
+#ORIGINAL:
+на наше болото? 
+#EXERCISE:
+на на|_| болот|_|?
+
+#ANSWERS:
+ше, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2958
+#ORIGINAL:
+– Наше болото? –  
+#EXERCISE:
+– На|_| болот|_|? –
+
+#ANSWERS:
+ше, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2959
+#ORIGINAL:
+возмутился Шрек. 
+#EXERCISE:
+возмутил|_| Шре|_|.
+
+#ANSWERS:
+ся, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2960
+#ORIGINAL:
+– Знаешь, после того, как мы спасли принцессу, и все такое… 
+#EXERCISE:
+– Знаешь, после тог|_|, как мы спас|_| принцессу, и все такое…
+
+#ANSWERS:
+о, ли
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2961
+#ORIGINAL:
+– Мы? Осёл, нет никакого «мы»,  
+#EXERCISE:
+– М|_|? Осёл, нет никако|_| «мы»,
+
+#ANSWERS:
+ы, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2962
+#ORIGINAL:
+нет никакого «наше»,  
+#EXERCISE:
+не|_| никако|_| «наше»,
+
+#ANSWERS:
+т, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2963
+#ORIGINAL:
+есть только «я» и моё болото! –  
+#EXERCISE:
+есть тольк|_| «я» и моё боло|_|! –
+
+#ANSWERS:
+о, то
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2964
+#ORIGINAL:
+Шрек привстал.  
+#EXERCISE:
+Шре|_| привст|_|.
+
+#ANSWERS:
+к, ал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2965
+#ORIGINAL:
+– Первое, что я сделаю –  
+#EXERCISE:
+– Перво|_|, что я сдел|_| –
+
+#ANSWERS:
+е, аю
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2966
+#ORIGINAL:
+это построю трехметровую стену вокруг моей земли, –  
+#EXERCISE:
+это построю трехметров|_| стену вокруг моей земл|_|, –
+
+#ANSWERS:
+ую, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2967
+#ORIGINAL:
+и Шрек демонстративно повернулся на другой бок. 
+#EXERCISE:
+и Шрек демонстративно повернул|_| на другой бок.
+
+#ANSWERS:
+ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2968
+#ORIGINAL:
+Осел вскочил на ноги и прижал уши. 
+#EXERCISE:
+Осел вскоч|_| на ног|_| и прижал уши.
+
+#ANSWERS:
+ил, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2969
+#ORIGINAL:
+– Ты сильно задел меня! – заявил он.  
+#EXERCISE:
+– Ты сильно задел мен|_|! – заяв|_| он.
+
+#ANSWERS:
+я, ил
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2970
+#ORIGINAL:
+– Ты очень сильно задел меня сейчас!  
+#EXERCISE:
+– Ты очень сильно зад|_| меня сейчас!
+
+#ANSWERS:
+ел
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2971
+#ORIGINAL:
+Знаешь, что я думаю? –  
+#EXERCISE:
+Знаешь, чт|_| я дум|_|? –
+
+#ANSWERS:
+о, аю
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2972
+#ORIGINAL:
+Осел обошёл Шрека,  
+#EXERCISE:
+Осел обош|_| Шрек|_|,
+
+#ANSWERS:
+ёл, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2973
+#ORIGINAL:
+подойдя к нему спереди.  
+#EXERCISE:
+подойдя к не|_| сперед|_|.
+
+#ANSWERS:
+му, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2974
+#ORIGINAL:
+– Я думаю, что все в мире ждут,  
+#EXERCISE:
+– Я дум|_|, что все в мир|_| ждут,
+
+#ANSWERS:
+аю, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2975
+#ORIGINAL:
+когда появится кто нибудь,  
+#EXERCISE:
+когд|_| появит|_| кто нибудь,
+
+#ANSWERS:
+а, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2976
+#ORIGINAL:
+кто сможет их понять и оценить. 
+#EXERCISE:
+кт|_| сможет их поня|_| и оценить.
+
+#ANSWERS:
+о, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2977
+#ORIGINAL:
+– Нет!
+– Тебе так не кажется? 
+ 
+#EXERCISE:
+– Нет!
+– Тебе так н|_| кажет|_|?
+
+#ANSWERS:
+е, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2978
+#ORIGINAL:
+А у тебя есть кто нибудь? 
+#EXERCISE:
+А у те|_| ест|_| кто нибудь?
+
+#ANSWERS:
+бя, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2979
+#ORIGINAL:
+– Не твоё дело, Осел! –  
+#EXERCISE:
+– Не тв|_| дел|_|, Осел! –
+
+#ANSWERS:
+оё, о
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2980
+#ORIGINAL:
+ответил Шрек,  
+#EXERCISE:
+ответ|_| Шре|_|,
+
+#ANSWERS:
+ил, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2981
+#ORIGINAL:
+опять отворачиваясь от Осла. 
+#EXERCISE:
+опять отворачивая|_| от Осл|_|.
+
+#ANSWERS:
+сь, а
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2982
+
+#ORIGINAL:
+– О, – продолжал Осел,  
+#EXERCISE:
+– О, – продолж|_| Осе|_|,
+
+#ANSWERS:
+ал, л
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2983
+#ORIGINAL:
+снова обходя Шрека и появляясь в поле его зрения, –  
+#EXERCISE:
+снова обходя Шре|_| и появляясь в пол|_| его зрения, –
+
+#ANSWERS:
+ка, е
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2984
+#ORIGINAL:
+это ещё что то вроде слоёв лука, да? 
+#EXERCISE:
+это ещё что то врод|_| слоёв лу|_|, да?
+
+#ANSWERS:
+е, ка
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2985
+#ORIGINAL:
+– Нет, это что то вроде «выбрось и забудь»! 
+#EXERCISE:
+– Нет, это что то врод|_| «выбрось и забу|_|»!
+
+#ANSWERS:
+е, дь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2986
+#ORIGINAL:
+– Почему ты не хочешь об этом говорить? 
+#EXERCISE:
+– Почему ты н|_| хочешь об этом говори|_|?
+
+#ANSWERS:
+е, ть
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2987
+#ORIGINAL:
+– А почему ты хочешь говорить об этом?! –  
+#EXERCISE:
+– А почему т|_| хочешь говорить об эт|_|?! –
+
+#ANSWERS:
+ы, ом
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2988
+#ORIGINAL:
+и Шрек снова повернулся на другой бок. 
+#EXERCISE:
+и Шрек снов|_| повернулся на друг|_| бок.
+
+#ANSWERS:
+а, ой
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2989
+#ORIGINAL:
+– Почему ты отворачиваешься? 
+#EXERCISE:
+– Почему т|_| отворачиваешь|_|?
+
+#ANSWERS:
+ы, ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2990
+#ORIGINAL:
+– Я не отворачиваюсь! 
+#EXERCISE:
+– Я н|_| отворачиваю|_|!
+
+#ANSWERS:
+е, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2991
+#ORIGINAL:
+– Отворачиваешься! 
+#EXERCISE:
+– Отворачиваешь|_|!
+
+#ANSWERS:
+ся
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2992
+#ORIGINAL:
+– Осёл, я предупреждаю тебя! – 
+#EXERCISE:
+– Осёл, я предупрежд|_| теб|_|! –
+
+#ANSWERS:
+аю, я
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2993
+#ORIGINAL:
+взревел Шрек, приподнимаясь. 
+#EXERCISE:
+взрев|_| Шрек, приподнимаяс|_|.
+
+#ANSWERS:
+ел, ь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2994
+#ORIGINAL:
+– От кого ты пытаешься скрыться? От кого? 
+#EXERCISE:
+– От кого т|_| пытаешься скрыться? От ко|_|?
+
+#ANSWERS:
+ы, го
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2995
+#ORIGINAL:
+– От всех, понятно? –  
+#EXERCISE:
+– От все|_|, понят|_|? –
+
+#ANSWERS:
+х, но
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2996
+#ORIGINAL:
+Шрек уже стоял перед Ослом, сжимая кулаки. 
+#EXERCISE:
+Шрек уже стоял перед Осл|_|, сжимая кулак|_|.
+
+#ANSWERS:
+ом, и
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2997
+#ORIGINAL:
+– О, ну вот, хоть до чего нибудь добрались! 
+#EXERCISE:
+– О, ну вот, хоть до чего нибуд|_| добрали|_|!
+
+#ANSWERS:
+ь, сь
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2998
+#ORIGINAL:
+– До чего ты назойливый! –  
+#EXERCISE:
+– До чего т|_| назойлив|_|! –
+
+#ANSWERS:
+ы, ый
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 2999
+#ORIGINAL:
+вскричал Шрек,  
+#EXERCISE:
+вскрич|_| Шре|_|,
+
+#ANSWERS:
+ал, к
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 3000
+#ORIGINAL:
+потрясая кулаками и направляясь к обрыву. 
+#EXERCISE:
+потрясая кулака|_| и направляясь к обрыв|_|.
+
+#ANSWERS:
+ми, у
+
+--- PAGE END ---
