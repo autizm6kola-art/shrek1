@@ -3502,71 +3502,71 @@
   {
     "title": "501",
     "original": "Возможно, вы видели полёт и даже суперполёт,",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "Возможно, вы виде|_| полёт и даж|_| суперполёт,",
+    "answers": ["ли", "е"],
     "id": 501
   },
   {
     "title": "502",
     "original": "но, бьюсь об заклад,",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "н|_|, бью|_| об заклад,",
+    "answers": ["о", "сь"],
     "id": 502
   },
   {
     "title": "503",
     "original": "вы никогда не видели полёт осла! –",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "вы никогда не виде|_| полёт осл|_|! –",
+    "answers": ["ли", "а"],
     "id": 503
   },
   {
     "title": "504",
     "original": "Осел всё поднимался и",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "Осел вс|_| поднимал|_| и",
+    "answers": ["ё", "ся"],
     "id": 504
   },
   {
     "title": "505",
     "original": "поднимался над землёй,",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "поднимал|_| над землё|_|,",
+    "answers": ["ся", "й"],
     "id": 505
   },
   {
     "title": "506",
     "original": "и к этому моменту был",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "и к этом|_| момен|_| был",
+    "answers": ["у", "ту"],
     "id": 506
   },
   {
     "title": "507",
     "original": "уже на высоте десятка ярдов.",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "уже н|_| высоте десятка ярд|_|.",
+    "answers": ["а", "ов"],
     "id": 507
   },
   {
     "title": "508",
     "original": "Но внезапно золотое сияние,",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "Но внезапно золот|_| сияни|_|,",
+    "answers": ["ое", "е"],
     "id": 508
   },
   {
     "title": "509",
     "original": "окружавшее его,",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "окружавш|_| ег|_|,",
+    "answers": ["ее", "о"],
     "id": 509
   },
   {
     "title": "510",
     "original": "начало быстро меркнуть.",
-    "exercise": "",
-    "answers": ["---PAGEEND---"],
+    "exercise": "нача|_| быстр|_| меркнуть.",
+    "answers": ["ло", "о"],
     "id": 510
   },
   {
