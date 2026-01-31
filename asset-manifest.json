@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shrek1/static/css/main.93eecac6.css",
-    "main.js": "/shrek1/static/js/main.71871e98.js",
+    "main.js": "/shrek1/static/js/main.aeb0ad59.js",
     "static/js/453.d37bcb50.chunk.js": "/shrek1/static/js/453.d37bcb50.chunk.js",
     "index.html": "/shrek1/index.html",
     "main.93eecac6.css.map": "/shrek1/static/css/main.93eecac6.css.map",
-    "main.71871e98.js.map": "/shrek1/static/js/main.71871e98.js.map",
+    "main.aeb0ad59.js.map": "/shrek1/static/js/main.aeb0ad59.js.map",
     "453.d37bcb50.chunk.js.map": "/shrek1/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93eecac6.css",
-    "static/js/main.71871e98.js"
+    "static/js/main.aeb0ad59.js"
   ]
 }
